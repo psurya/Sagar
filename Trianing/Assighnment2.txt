@@ -1,0 +1,26 @@
+1.Terms such as saucy, trusty, raring, quantal etc... Research into what these are and what you are using. Is there an easy way to find which of these you are using?
+
+Answr: These are the different versions of ubuntu .
+	I'm using precise
+	the command is lsb_release -a toknow the version we are using
+
+2.What are software repositories? What are the benefits of using software repositories? 
+
+Answer: Software Repository is the storage locations where differnet packages are stored we retrieve the packages from them and install in computer
+
+Benefits:
+It makes easy for us to install the softwares and manage them
+Avoid Multiple copy of software packages
+Minimizing Security Risks
+Enables EasyBack up
+
+How do you keep your applications and libraries up to date on your system?
+
+Answr: Sudo apt-get update and sudo ldconfig (for libraries)
+
+What are PPAs? Why use a PPA for Java vs Downloading Java SDK from the Oracle site?
+Answer: It is a special Repository that provides update of software packages much quicker than ubuntu.we use PPA because we get an updated version of java and we need no wait OS toupdate it later.
+
+
+
+

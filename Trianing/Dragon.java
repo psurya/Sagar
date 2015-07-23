@@ -1,0 +1,135 @@
+import java.util.*;
+public class Dragon{
+	public static void main(String[] args) 
+	{	
+		Path d=new Path();
+		double startTime = System.nanoTime();
+		double n=Math.pow(10.0,12.0);
+		double i=0;
+		while(n%2==0)
+		{
+			n=n/2;
+			i++;
+		}
+		d.directjump(n);						//going upto D(27)
+		d.stepbystep(n);					//then step by step upto 2.44140625E08
+		d.directjump(Math.pow(10.0,12.0)+1);			//directly to 1000000000000 step
+		d.print();
+		double endTime = System.nanoTime();
+		System.out.println("Took "+(endTime - startTime)/1000000000 + " s");		
+	}
+}
+class Path
+{
+	public int x,y,p;
+	public  double i;
+	public  Path()
+	{
+		x=1;
+		y=1;
+		i=2;
+		p=-2;
+	}
+	public void print()
+	{
+		System.out.println(x + "," + y+" "+i+"	");
+	}
+	public  void directjump(double n)
+	{
+		do
+		{
+			int x,y;
+			x=this.x;
+			y=this.y;
+			this.x=x+y;
+			this.y=y-x;
+			i=2*i;
+		}while(n>(i*2));
+		
+							
+	}
+	public void stepbystep(double n)			
+	{
+		while(i<n)
+		{
+		front();
+		form(i);
+		}
+	}
+public  void  form(double n)
+	{
+		while(n%2==0 )
+		{
+			n=n/2;
+		}
+		if(n==1)
+		{
+			right();
+			front();
+			right();
+		}
+		else if(n%4==1)
+		{
+	 		right();
+		}
+		else if(n%4==3) 
+		{
+			left();
+		}	
+	}
+	public    void right()
+	{
+		switch(p){
+			case 1:
+					p=-2;
+					break;
+			case 2:
+					p=1;
+					break;
+			case -2:
+					p=-1;
+					break;
+			case -1:
+					p=2;
+					break;
+		}
+		
+	}
+	public    void left()
+	{
+		switch(p){
+			case 1:
+					p=2;
+					break;
+			case 2:
+					p=-1;
+					break;
+			case -2:
+					p=1;
+					break;
+			case -1:
+					p=-2;
+					break;
+		}
+	
+	}
+	public    void front()
+	{
+		switch(p){
+			case 1:
+					x++;
+					break;
+			case 2:
+					y++;
+					break;
+			case -2:
+					y--;
+					break;
+			case -1:
+					x--;
+					break;
+
+		}
+		i++;
+	}
+}

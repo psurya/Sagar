@@ -1,0 +1,36 @@
+use sag;
+CREATE TABLE accidents
+(
+States VARCHAR(100) NOT NULL DEFAULT '',
+ A INT NOT NULL,
+ B INT NOT NULL,
+ C INT NOT NULL,
+ D INT NOT NULL,
+ E INT NOT NULL, 
+F INT NOT NULL,
+ G INT NOT NULL,
+PRIMARY KEY(States) 
+);
+LOAD DATA LOCAL INFILE '/home/zemoso09/Downloads/data' INTO TABLE accidents;
+DELETE FROM accidents WHERE States='AllIndia';
+CREATE TABLE population(States VARCHAR(100) NOT NULL DEFAULT '', A INT NOT NULL,PRIMARY KEY(States) );
+LOAD DATA LOCAL INFILE '/home/zemoso09/Downloads/population.csv' INTO TABLE population FIELDS TERMINATED BY ',';
+UPDATE accidents set States="Andaman and Nicobar Islands" WHERE States="Andaman&NicobarIslands";
+UPDATE accidents set States="West Bengal" WHERE States="WestBengal";
+UPDATE accidents set States="Tamil Nadu" WHERE States="TamilNadu";
+UPDATE accidents set States="Jammu and Kashmir" WHERE States="Jammu&Kashmir";
+UPDATE accidents set States="Daman and Diu" WHERE States="Daman&Diu";
+UPDATE accidents set States="Madhya Pradesh" WHERE States="MadhyaPradesh";
+UPDATE accidents set States="Himachal Pradesh" WHERE States="HimachalPradesh";
+UPDATE accidents set States="Uttar Pradesh" WHERE States="UttarPradesh";
+UPDATE accidents set States="Dadra and Nagar Haveli" WHERE States="Dadra&NagarHaveli";
+UPDATE population set States="Manipur" WHERE States="Manipur*Î²*";
+CREATE TABLE vehicle_counts
+(
+States VARCHAR(100) NOT NULL DEFAULT '',
+ A INT NOT NULL,
+ B INT NOT NULL,
+PRIMARY KEY(States) 
+);
+LOAD DATA LOCAL INFILE '/home/zemoso09/Downloads/datafile.csv' INTO TABLE vehicle_counts FIELDS TERMINATED BY ',';
+

@@ -1,0 +1,21 @@
+1.pwd-print working directory
+2.hostname-my computer's network name
+3.mkdir -make directory
+4. cd - change directory
+5. ls -list directory
+6. rmdir-remove directory
+7. pushd-pusd directory
+8. popd-pop directory
+9. cp-copy a file or directory
+10. mv-move a file or directory
+11. less -page through a file
+12. cat-print the whole file and rewriting the file
+13. find -find fies
+14. grep-find things inside these files
+man -read manual page
+echo-print some arguments
+chmod-change permission modifiers
+chown-change ownership
+apropos -for gettinng help on any commands
+grep-find the letters words in all text files or single text files
+

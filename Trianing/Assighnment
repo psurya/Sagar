@@ -1,0 +1,140 @@
+java.lang.String
+
+Main Internal Structures:
+
+		Constructors								Uses
+
+ String()									Intialises the String with empty character sequence
+ String(char[] array)								Stores a character sequence in a string 
+ String(char[] value, int offset, int count)             stores characters from a subarray of the character array argument into a String.
+ String(String original)                                                  Initializes  String object so that it copies the Argument String
+
+String(StringBuffer buffer)		          Intialises string that contains the sequence of characters in the string buffer argument. 
+
+
+		Method									Uses
+ char charAt(int index)								used to acces the character in a string
+ returns the char
+ 
+ int compareTo(String str)							it use to compare two strings lexicographically
+ returns integer 								returns 0 if it is equal -1 if it is greater and 1 if it is 
+										less than this String in the object;
+ String concat(String str) 
+ returns String									Used for concatenation
+
+static String copyValueOf(char[] data, int offset, int count)		Used to store the subs string in a chararray to a String
+
+char[] toCharArray()							converts string to char array
+
+String substring(int beginIndex, int endIndex)				returns substring
+
+String[] split(String regex) 						Split's the  string around the matches of the regular expression
+
+
+
+java.util.ArrayList
+
+Main Internal Structures:
+
+		Constructors								Uses
+
+ ArrayList(initialCapacity)							Constructs an empty list with an initial capacity 
+ ArrayList()									Constructs an emptylist with no limit;
+ 
+        Method										Uses
+  boolean add(E element)							Adds a specific element;
+ void add(int index,E value)							Adds an element at a index
+ boolean contains(Object o)							check whether it contains a particular element
+ E get(int index)								returns the value at that index
+ boolean remove(E e)								removes particular element
+ indexOf(Object o)								returns the index of the element
+ Iterator<E> iterator							Returns an iterator over the elements in this list in proper sequence.
+ public boolean isEmpty()						Returns true if this list contains no elements
+ public int size()							Returns the size of the array
+ 
+
+java.util.Hashmap
+
+Main Internal Structures:
+
+	Constructors									Uses
+ HashMap()								Constructs an empty HashMap with the default initial capacity (16)
+ HashMap(int initialCapacity)						Constructs an empty HashMap with the specified initial capacity
+ HashMap(Map<? extends K,? extends V> m)				Constructs a new HashMap with the same mappings as the specified Map.
+
+  methods										Uses
+
+void clear()								Removes all of the mappings from this map.
+
+boolean	containsKey(Object key)					Returns true if this map contains a mapping for the specified key.
+
+boolean	containsValue(Object value)				Returns true if this map maps one or more keys to the specified value.
+
+Set<Map.Entry<K,V>>	entrySet()				Returns a Set view of the mappings contained in this map.
+
+V  get(Object key)						Returns the value to which the specified key is mapped
+
+boolean	isEmpty()						Returns true if this map contains no key-value mappings.
+
+Set<K>	keySet()						Returns a Set view of the keys contained in this map.
+
+V put(K key, V value)						Associates the specified value with the specified key in this map.
+
+V remove(Object key)						Removes the mapping for the specified key from this map if present.
+
+int	size()							Returns the number of key-value mappings in this map.
+
+
+4. Java.lang.Throwable :-
+The java.lang.Throwable class is the superclass of all errors and exceptions in the Java language. Only objects that are instances of this class (or one of its subclasses) are thrown by the Java Virtual Machine or can be thrown by the Java throw statement.
+
+
+      Constructors 									Uses
+	Throwable()					This constructs a new throwable with null as its detail message.
+	Throwable(String message)			This constructs a new throwable with the specified detail message.
+	Throwable(String message, Throwable cause)      This constructs a new throwable with the specified detail message and cause.
+	Throwable(Throwable cause)			This constructs a new throwable with the specified cause and a detail message of cause
+
+
+      	Method										Uses
+
+	Throwable fillInStackTrace()		   it fills in the execution stack trace.
+        Throwable getCause()			  it returns the cause of this throwable or null if the cause is nonexistent or unknown.
+	String getLocalizedMessage()		  it  creates a localized description of this throwable.
+	String getMessage()			  it returns the detail message string of this throwable.
+	StackTraceElement[] getStackTrace()	  it provides programatic access to the stack trace information printed by printStackTrace().
+
+5.2.java.lang.Long :-
+The java.lang.Long class wraps a value of the primitive type long in an object. An object of type Long contains a single field whose type is long.
+	
+                 Fields:-					Uses
+	static long MAX_VALUE 			this constant variable holds the maximum value a long can have, (2^63)-1.
+	static long MIN_VALUE			This is a constant holding the minimum value a long can have, -2^63.
+	static int SIZE 			This is the number of bits used to represent a long value in two's complement binary form.
+	static Class<Long> TYPE 		This is the class instance representing the primitive type long.
+	
+	Constructors:-						Uses
+	Long(long value)			it is used to construct a long variable in a Long Object
+	Long(String s)				it represents the long value into a string and stores in a object of Long Type
+
+	Methods:-
+static int bitCount(long i)	   it returns the number of one-bits in the two's complement binary representation of the specified long value.
+
+int compareTo(Long anotherLong)	       Compares two long variable and send 0 if they are equal and -1 if the given long is greater vice versa
+	
+static Long decode(String nm)			This method decodes a String into a Long.
+
+
+3.java.net.Socket:-
+The java.net.Socket class represents the socket that both the client and server use to communicate with each other. The client obtains a Socket object by instantiating one, whereas the server obtains a Socket object from the return value of the accept() method.
+	
+                 Methods							Uses
+
+public Socket(String host, int port)		This method attempts to connect to the specified server at the specified port. If 						 constructor does not throw an exception, the connection is successful and the client is connected to 							the server. Otherwise throws UnknownHostException, IOException.
+	
+public Socket(InetAddress host, int port)         it is similar to the above constructor, except that the host is denoted by an InetAddress 							  object.
+
+public Socket(String host, int port, InetAddress localAddress, int localPort) : Connects to the specified host and port, creating a socket on 											the local host at the specified address and port.
+
+public Socket(InetAddress host, int port, InetAddress localAddress, int localPort):   This method is identical to the previous constructor, 									  except that the host is denoted by an InetAddress object instead of a String.
+	 			

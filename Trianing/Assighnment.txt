@@ -1,0 +1,159 @@
+Answers:
+1Q. What are the main folders (Google and find out and list with partial contents on your system. Give brief descriptions for what you think they contain)?
+Ans:   Main folders are the important folders  which contain the files  that is used by the sysytem and which contains the configuration   		    and settings of the various software and hard wares
+     List 
+	1. /bin :  it contains most commonly used terminal commands like ls, ,mount,rm etc.
+	2.  /boot : it contains files that are are required to startup the system.
+	3. /dev  : it contains device files which refer to  the hardware devices on the  system like hard drives.
+
+	4./etc :   contains global configuration files of  the system which effects all users eg. it contains the settings of internet which 		is used by all users.
+
+	5./home : it is the home directory for all the users.
+
+	6. /lib : contains very important dynamic libraries and kernel modules
+
+	7. /media :it is is intended a a mount point for external devices, such as hard drives or removable media (external hard drive,hard 			disk etc.).
+	8./mnt  :is also a place for mount points, but dedicated specifically to "temporarily mounted" devices, such as network filesystems.
+
+	9. /opt : it is used to store the additional softwares which are installed and not present in the packages.
+
+	10./proc :is a virtual filesystem that provides a mechanism for kernel to send information to processes.
+
+	11./root is the superuser's home directory,it is used while booting the system even if /home/ is not available.
+
+	12./sbin contains important administrative commands that should generally only be employed by the superuser.
+
+	13./srv : it contains the data for the services like  HTTP ) or FTP.
+
+	14./sys: is a virtual filesystem that can be accessed to set or obtain information about the kernel's view of the system.
+
+	15./tmp :is a place for temporary files used by applications.
+	
+	16./usr: contains the majority of user utilities and applications, and partly replicates the root directory structure such as /usr/  			bin/ and /usr/lib etc.
+
+	17./var:  is dedicated variable data that potentially changes rapidly; a notable directory it contains is /var/log where system log 		files are kept.
+
+2.Q What will you find in these folders
+	/etc
+	/etc/init.d
+	/var/log
+	/home
+	/home/<user-id>
+	/boot
+	/usr/bin
+ans:s
+	/etc :contains global configuration files of  the system which effects all users eg. it contains the settings of internet which is 	used by all users.
+
+	/etc/init.d:  This folder contains scripts of init command which is used to start various services .it contains shell scripts that 	respond to start and stop and restart that manages a service .
+	
+	/var/log : Log files from the system and various programs/services .These get Updated.
+
+	/home: It is the home directory for users which contains documents pictures and downloads of user files.
+
+	/home/<user-id> : It contains files of a Particular user user-id is replaced with the id of the user
+
+	/boot : it contains files that are are required to startup the system.
+	/usr/bin : it is the directory for the executable commands on the system .it contains application used by the system usr.
+
+3. Q. What are environment variables? How do you display the value of an environment variable?
+
+
+A:Environment variables are the variables that are used  to adapt each application's behavior to the environment it is running in.The 		variables are basically named strings .This allows various applications to work in it's environment.These names have specific value
+	we use the command “printenv <environment variable name> “ to display the value of the environment variable
+
+4Q). What is $PATH? What is $HOME?
+
+  A:$PATH it is a value of the environment variable of PATH 
+		SIMILARLY $HOME is the value of the environment variable of HOME.
+Q. How do you change the $PATH. Why would you change $PATH?
+	a : export PATH=/aome/path ,to include the directeries that we search
+Q. How do you change $PATH so that it is set to include your changes every time you login? Create a bin directory in your $HOME folder and 	include that into the PATH so that every time you login the $HOME/bin is part of your PATH.
+A:	 To include permanently we have to edit the /.profile file and add
+  	  export PATH=$PATH:/some/directory/
+      b) edit the profilr file (it is already there in profile file)
+	export PATH="$HOME/bin:$PATH"
+
+
+Q. If you are in the directory /a/b/c/d/e/f/g, what is the shortest command to switch directory to /a/b/c/d/e/h/k?
+
+    Ans:  cd ../../h/k
+
+
+Listing Directory
+Q. List contents of your home directory
+Q. List contents including hidden files. (What are hidden files?)
+Q. List contents including file sizes and dates
+
+Q. What are the folders in your root directory?
+
+
+	7.a) ls  in  terminal
+	  b) ls -ld .?
+	  c) ls -l
+	  d)  ls /
+
+
+
+Moving Files
+Q. How will you move a directory from one folder to another? What is command to move folder c at /a/b/c to /a/d/e/f directory?
+Q. How do you split a large file into smaller files? How will you split a 10GB file into 10 1GB files?
+Q. How do you put the file back together?
+	Ans) mv file dir
+	   mv a/b/c d/e/f
+   
+	   b) split --bytes=1GB file newfile
+	      cat newfile*>new
+
+
+
+Piping and Redirection
+Q. Use |, >, >> with your commands and explain the results in your own words. 
+1. | 
+2. >
+3. >>
+ Answers) '|' is used to pass two commands at a time
+     'a>b' takes the output from a and written to b
+    'a>>b' takes theYou already have used access modifiers ( public & private ) in this chapter. The next chapter will explain you Access Modifiers and Non Access Modifiers in detail.
+
+ output from a and appended to b
+
+Q. Use the output of ls -l and create a new file with just the file sizes. Use the "cut" command. The whole operation can be done in one line. The fifth column is usually the size.
+     Ans:cut -d' ' -f9 n.txt
+
+Q. What do these commands do 
+	1. some_command >file.log 2>&1 
+	2. some_command 2>&1 | tee -a file.log
+	Q. What does "tee" do? How can I make the first one behave exactly like the 2nd?
+	Ans)  a)it is used to incldue stderr and stdout into stdout stream file 
+	       without 2>&1 the stderr will not go into the log file
+	     b)it comes both in terminal and stream file
+	     c)it is used to append the stdout everytime into the file
+	      d)<some command> 2>&1 | tee -a logfile.log
+
+11) total 1752488
+                    -rw-r--r--     1 sudhir  staff      68567 Nov 24  2014 alld1.txt
+                    -rw-r--r--     1 sudhir  staff     279909 Nov 24  2014 alld2.txt
+                    -rw-r--r--     1 sudhir  staff      68567 Nov 24  2014 alld3.txt
+                     -rw-r--r--     1 sudhir  staff      56139 Nov 19  2014 districts.json
+                     drwxr-xr-x  6217 sudhir  staff     211378 Nov 24  2014 pixel-maps
+                      -rwxr-xr-x@    1 sudhir  staff  896793406 Nov 14  2014 water_mask_merged.tif
+	Ans:the first coloumn : it shows "-" for file "d" for directory and 'l' for link
+	second column: file permissions first three for owner next three for group and next for other which includes read wri te and execute
+	third column : specifies the number of directories inside it
+	fourth column: username who owns it
+	fifth column:  to which group it belongs
+	sixth column:size
+	seventh column: when it is modified last
+	eigth column: name of file or directory
+Q) What is sudo?
+12) it is the program that gives privileges of admin and gives permission to alter some files and settings which must be done by root user
+Q. How do you view the contents of /var/log/syslog. Give command to output last 5 lines of this file.
+	13) sudo gedit var/log/syslog
+Q. How do you view the contents of /var/log/syslog. Give command to output last 5 lines of this file.
+   	A: sudo  watch tail -n 5 /var/log/syslog
+Q) . Create a new user in your system called "zteam" using the command line. Check out the options available for the command to create a user 		and list down options you'd use to create this account.
+14) sudo adduser zteam
+    man adduser ( it will show different options while creating  account)
+Q. Create a "zteam" folder in your home directory and give "ownnership" of the directory to zteam.
+    mkdir zteam
+    sudo chown zteam zteam
