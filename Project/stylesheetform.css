@@ -1,0 +1,58 @@
+h4
+{
+	 font-family: "Times New Roman", Times, serif;
+	 color:rgb(0,0,255);;
+	 font-size: 30px;
+	border-bottom: 1px solid blue;
+}
+.footer
+{
+ font-size: 10px;
+}
+body 
+{
+    background-color: white;
+    font-family: "Arial", Times, serif;
+    font-size: 15px;
+}
+.row{
+  margin-bottom: 10px
+}
+#panelheading{
+  font-size: 20px;
+  font-weight:bold;
+}
+button
+{
+	padding:0;
+	border:none;
+	background: none;
+}
+.form-control
+{
+	border-bottom: 2px solid ;
+}
+#dropdownlist
+{
+  background-color: white;
+}
+#formprop
+{
+	color: grey;
+}
+ input:focus:invalid {
+    border-color: red;
+}
+input:required:valid ,input:focus:valid{
+  border-color:green;
+}
+select:focus:invalid
+{
+  border-color:red;	
+}
+select:required:valid
+{
+  border-color:green; 
+}
+
+

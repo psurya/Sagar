@@ -1,0 +1,467 @@
+<!DOCTYPE html >
+<html lang="en">
+<head>
+  <!...... Plugins inckuded from cdn !...><title>Clients'form</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2014.1.318/styles/kendo.common.min.css" />
+   <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2014.1.318/styles/kendo.blueopal.min.css" />
+  <link type="text/css" rel="stylesheet" href="stylesheetform.css"></link>
+  <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.3.min.js"></script>
+  <script src="http://kendo.cdn.telerik.com/2014.1.318/js/kendo.all.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>  
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="toggle.js"></script>
+  <script type="text/javascript" src="Valid.js"></script><!...... Plugins inckuded from cdn !...>
+</head>
+<body>
+    <div class="container col-md-12">
+    	<div class="panel-group">
+    		<div class="panel panel-default">
+    			<div class="panel panel-heading">
+    				<h4>FormName</h4>
+    			</div>
+    			<div class="panel-body">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-6"></div>
+                    <div class="footer col-md-2">
+                        <p style="color:red "><strong>Form last updated by</strong>:sagar1229
+                        <br>
+                        <strong>Form last updated</strong>:Jul 27, 2015</strong></p>
+                    </div>
+    				<div class="row">
+    					<div class="col-md-4">
+    						<strong>Program name:</strong><span id="formprop">Foster Kids</span>
+    					</div>
+    				</div>
+    				<div class="row">
+    					<div class="col-md-4">
+    						<strong>Form Status:</strong><span id="formprop">DRAFT</span>
+    					</div>
+    				</div>
+    				<div class="panel-group" >
+    					<div class="panel panel-default"><!..Additional info ...!>
+    						<div class="panel panel-heading">
+    							<h4><button type="button" class="add">Additional Info</button></h4>
+                            </div>
+                            <div class="panel panel-body toggle">
+    							<div class="panel-group" >
+                                    <div class="panel panel-default ">
+                                        <div class="panel panel-heading" id="panelheading">Name Details</div>
+                                        <div class="panel panel-body">
+                                           <form id="form1" method="post" class="form"  >
+                                                <div class="row">
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label class="control-label">Firstname</label>
+                                                            <input type="text"  class="form-control" name="firstname" required pattern="[a-zA-Z]+" >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="MiddleName">MiddleName:</label>
+                                                            <input type="text" class="form-control" name="middlename"  pattern="[a-zA-Z]+" >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="LastName">LastName:</label>
+                                                            <input type="text" class="form-control" name="lastname" required pattern="[a-zA-Z]+" >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Suffix">Suffix:</label> 
+                                                            <br>
+                                                            <select  class="form-control dropdownlist1" name="suffix"  required >
+                                                                <option value="">Please select</option>
+                                                                <option value="Jr.">Jr.</option>
+                                                                <option value="Mr.">Mr.</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                           </form>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-default">
+                                        <div class="panel panel-body">
+                                           <form class="form-inline" role="form" id="form2">
+                                                <div class="row">
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Client ID">Client ID:  </label>
+                                                            <br></br>Auto Generated
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="DOB">Date of Birth</label>
+                                                            <input type="Date" class="form-control" id="DOB" >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="DODeath">Date of Death:</label>
+                                                            <input type="Date" class="form-control" id="DODeath" >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Photo">Photograph:</label>
+                                                            <br></br>
+                                                            <img id="Photo" class="imgupload" src="user_photo.png" />
+                                                           <button type="button" class="btn btn-default">Upload New Photo</button>
+                                                            <p>Maximum file size is 1MB.
+                                                                <br /> Valid file formats are: .jpg, .png, .gif<br>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                           </form>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-default">
+                                        <div class="panel panel-body">
+                                           <form class="form-inline" role="form">
+                                                <div class="row">
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="SSN">Social Security Number (SSN):  </label>
+                                                            <input type="number" class="form-control" id="SSN" >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="ids">IDs from other systems</label>
+                                                            <input type="text" class="form-control" id="ids" >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Age">Age:</label>
+                                                            <br></br>
+                                                            Auto Generated
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="FamilySize">Family Size:</label>
+                                                            <br></br>
+                                                            1                              
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                           </form>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-default">
+                                        <div class="panel panel-body">
+                                           <form class="form-inline" role="form">
+                                                <div class="row">
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Status">Status:</label>
+                                                            <br>
+                                                            <select  class="form-control dropdownlist1" name="Status" Id="Status">
+                                                                <option>Select</option>
+                                                                <option>Active</option>
+                                                                <option>InActive</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="DoB">Quality of collected date of birth</label>
+                                                            <br>
+                                                            <select  class="form-control dropdownlist1" name="DoB" Id="DoB">
+                                                                <option>Select</option>
+                                                                <option>Active</option>
+                                                                <option>InActive</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Address">Quality of collected name and address</label>
+                                                            <br>
+                                                            <select  class="form-control dropdownlist1" name="Address" Id="Address">
+                                                                <option>Select</option>
+                                                                <option>Active</option>
+                                                                <option>InActive</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="QSSN">Quality of collected SSN</label>
+                                                            <br>
+                                                            <select  class="form-control dropdownlist1" name="QSSN" Id="QSSN">
+                                                                <option>Select</option>
+                                                                <option>Active</option>
+                                                                <option>InActive</option>
+                                                            </select>
+                                                        </div>                         
+                                                    </div>
+                                                </div>
+                                           </form>
+                                       </div>
+                                    </div>
+                                    <div class="panel panel-default">
+                                        <div class="panel panel-body">
+                                           <form class="form-inline" role="form">
+                                                <div class="row">
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="HOh">Head of HouseHold  </label>
+                                                            <br>
+                                                            <select  class="form-control dropdownlist1" name="Hoh" Id="Hoh">
+                                                                <option>Select</option>
+                                                                <option>Active</option>
+                                                                <option>InActive</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Mothername">Mother's Maiden Name</label>
+                                                            <input type="text" name="Mothername" class="form-control">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="DLicense">Driving License State</label>
+                                                            <br>
+                                                            <select  class="form-control dropdownlist1" name="DLicense" Id="DLicense">
+                                                                <option>Select</option>
+                                                                <option>Active</option>
+                                                                <option>InActive</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="DLicenseNum">Driving License Number</label>
+                                                            <input type="text" name="DLicenseNum" class="form-control"> 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                           </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!..Additional info ...!>
+    					<div class="panel panel-default"><!..contact info ...!>
+    						<div class="panel panel-heading">
+    							<h4><button type="button" class="contact" >Contact Info</button></h4>
+                            </div>
+							<div class="panel panel-body togglecontact">
+                                <div class="panel-group">
+                                    <div class="panel panel-default ">
+                                        <div class="panel panel-heading" id="panelheading">Adresss:</div>
+                                        <div class="panel panel-body">
+                                           <form id="form" method="post" class="form"  >
+                                                <div class="row">
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label class="control-label">Address Line 1</label>
+                                                            <input type="text"  class="form-control" name="Address1" required  >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Address2">Address Line 2</label>
+                                                            <input type="text" class="form-control" name="Address2"  required >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="City">City</label>
+                                                            <input type="text" class="form-control" name="City" required >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="State">State:</label> 
+                                                            <br>
+                                                            <select  class="form-control dropdownlist1" name="State" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="Jr.">State1</option>
+                                                                <option value="Mr.">State2</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="ZipCode">ZipCode:</label> 
+                                                            <br>
+                                                            <input  type=number class="form-control" name="ZipCode" required >
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                           </form>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-default">
+                                        <div class="panel panel-heading" id="panelheading">Mailing Preference:</div>
+                                        <div class="panel panel-body">
+                                           <form class="form-inline" role="form" id="form2">
+                                                <div class="row">
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Mail">May we contact the client by mail?:  </label>
+                                                            <select  class="form-control dropdownlist1" name="Mail" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="Yes">Yes</option>
+                                                                <option value="No.">No</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Confidential">If so, should the mail be confidential?</label>
+                                                            <select  class="form-control dropdownlist1" name="Confidential" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="Yes.">Yes</option>
+                                                                <option value="No.">No</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="phone">May we contact the client by phone?</label>
+                                                            <select  class="form-control dropdownlist1" name="phone" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="Yes.">Yes</option>
+                                                                <option value="No.">No</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Confidential1">If so, should the mail be confidential? </label>
+                                                            <select  class="form-control dropdownlist1" name="Confidential1" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="Yes.">Yes</option>
+                                                                <option value="No.">No</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                   <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="messages">Should the messages be confidential?</label>
+                                                            <select  class="form-control dropdownlist1" name="messages" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="Yes.">Yes</option>
+                                                                <option value="No.">No</option>
+                                                            </select>
+                                                        </div>
+                                                    </div> 
+                                                </div>
+                                           </form>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-default">
+                                        <div class="panel panel-heading" id="panelheading">Mailing Address:</div>
+                                        <div class="panel panel-body">
+                                           <form class="form" role="form">
+                                                <div class="row">
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Street">Street: </label>
+                                                            <input type="text" class="form-control" name="Street" >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="ZipCode">ZipCode:</label> 
+                                                            <input  type=number class="form-control" name="ZipCode" required >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="State">State:</label> 
+                                                            <select  class="form-control dropdownlist1" name="State" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="state1">State1</option>
+                                                                <option value="state2">State2</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Country">Country:</label> 
+                                                            <select  class="form-control dropdownlist1" name="Country" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="C1">C1</option>
+                                                                <option value="C1">C2</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                           </form>
+                                        </div>   
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!..contact info ...!>
+					    <div class="panel panel-default"><!Demographic!>
+    						<div class="panel panel-heading">
+    							<h4><button type="button" class="Demo">Demographic Info</button></h4>
+    							<div class="panel-group toggleDemo">
+                                    <div class="panel panel-default ">
+                                        <div class="panel panel-heading" id="panelheading">Adresss:</div>
+                                        <div class="panel panel-body">
+                                           <form id="form" method="post" class="form"  >
+                                                <div class="row">
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label class="control-label">What Are your Social Supports</label>
+                                                            <input type="text"  class="form-control" name="Support" required  >
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Transport">Transportation Status</label>
+                                                            <select  class="form-control dropdownlist1" name="Transport" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="Self">Self</option>
+                                                                <option value="Family">Family/Friends</option>
+                                                                <option value="Dart">Dart</option>
+                                                                <option value="Taxi Cab">Taxi Cab</option>
+                                                                <option value="Other">Other Cab</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="form-group">
+                                                            <label for="Race">Race</label>
+                                                            <br>
+                                                            <select  class="form-control dropdownlist" name="Race"  multiple="multiple" required >
+                                                                <option value="">Please select</option>
+                                                                <option value="Self">Self</option>
+                                                                <option value="Family">Family/Friends</option>
+                                                                <option value="Dart">Dart</option>
+                                                                <option value="Taxi Cab">Taxi Cab</option>
+                                                                <option value="Other">Other Cab</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                           </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!Demographic!>
+    				</div>	
+    			</div>
+    		</div>
+    	</div>
+    </div>
+</body>
+</html>
