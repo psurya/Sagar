@@ -1,0 +1,5464 @@
+{
+"zip_codes": [
+{
+"zip_code": "64654",
+"distance": 198.253,
+"city": "Lock Springs",
+"state": "MO"
+},
+{
+"zip_code": "64689",
+"distance": 193.573,
+"city": "Winston",
+"state": "MO"
+},
+{
+"zip_code": "64422",
+"distance": 195.616,
+"city": "Amity",
+"state": "MO"
+},
+{
+"zip_code": "64620",
+"distance": 190.96,
+"city": "Altamont",
+"state": "MO"
+},
+{
+"zip_code": "64640",
+"distance": 190.701,
+"city": "Gallatin",
+"state": "MO"
+},
+{
+"zip_code": "64469",
+"distance": 190.176,
+"city": "Maysville",
+"state": "MO"
+},
+{
+"zip_code": "64459",
+"distance": 193.86,
+"city": "Helena",
+"state": "MO"
+},
+{
+"zip_code": "64497",
+"distance": 187.515,
+"city": "Weatherby",
+"state": "MO"
+},
+{
+"zip_code": "64485",
+"distance": 195.968,
+"city": "Savannah",
+"state": "MO"
+},
+{
+"zip_code": "64635",
+"distance": 191.439,
+"city": "Chula",
+"state": "MO"
+},
+{
+"zip_code": "64674",
+"distance": 198.553,
+"city": "Purdin",
+"state": "MO"
+},
+{
+"zip_code": "64447",
+"distance": 183.129,
+"city": "Maysville",
+"state": "MO"
+},
+{
+"zip_code": "64648",
+"distance": 181.537,
+"city": "Jamesport",
+"state": "MO"
+},
+{
+"zip_code": "64494",
+"distance": 186.432,
+"city": "Union Star",
+"state": "MO"
+},
+{
+"zip_code": "64652",
+"distance": 184.451,
+"city": "Laredo",
+"state": "MO"
+},
+{
+"zip_code": "64647",
+"distance": 175.797,
+"city": "Jameson",
+"state": "MO"
+},
+{
+"zip_code": "64630",
+"distance": 190.222,
+"city": "Browning",
+"state": "MO"
+},
+{
+"zip_code": "64483",
+"distance": 187.255,
+"city": "Rosendale",
+"state": "MO"
+},
+{
+"zip_code": "64449",
+"distance": 191.527,
+"city": "Fillmore",
+"state": "MO"
+},
+{
+"zip_code": "63566",
+"distance": 198.104,
+"city": "Winigan",
+"state": "MO"
+},
+{
+"zip_code": "64670",
+"distance": 174.097,
+"city": "Pattonsburg",
+"state": "MO"
+},
+{
+"zip_code": "64480",
+"distance": 181.92,
+"city": "Rea",
+"state": "MO"
+},
+{
+"zip_code": "64463",
+"distance": 176.155,
+"city": "Kingcity",
+"state": "MO"
+},
+{
+"zip_code": "64683",
+"distance": 174.476,
+"city": "Trenton",
+"state": "MO"
+},
+{
+"zip_code": "64646",
+"distance": 179.158,
+"city": "Humphreys",
+"state": "MO"
+},
+{
+"zip_code": "64636",
+"distance": 167.032,
+"city": "Coffey",
+"state": "MO"
+},
+{
+"zip_code": "64427",
+"distance": 179.553,
+"city": "Bolckow",
+"state": "MO"
+},
+{
+"zip_code": "64437",
+"distance": 198.613,
+"city": "Craig",
+"state": "MO"
+},
+{
+"zip_code": "64657",
+"distance": 165.792,
+"city": "Mc Fall",
+"state": "MO"
+},
+{
+"zip_code": "64438",
+"distance": 164.536,
+"city": "Darlington",
+"state": "MO"
+},
+{
+"zip_code": "64470",
+"distance": 189.7,
+"city": "Mound city",
+"state": "MO"
+},
+{
+"zip_code": "64457",
+"distance": 169.825,
+"city": "Guilford",
+"state": "MO"
+},
+{
+"zip_code": "64466",
+"distance": 183.886,
+"city": "Maitland",
+"state": "MO"
+},
+{
+"zip_code": "64642",
+"distance": 161.138,
+"city": "Gilmancity",
+"state": "MO"
+},
+{
+"zip_code": "64641",
+"distance": 168.545,
+"city": "Galt",
+"state": "MO"
+},
+{
+"zip_code": "64455",
+"distance": 178.468,
+"city": "Graham",
+"state": "MO"
+},
+{
+"zip_code": "63556",
+"distance": 176.506,
+"city": "Milan",
+"state": "MO"
+},
+{
+"zip_code": "64423",
+"distance": 171.76,
+"city": "Barnard",
+"state": "MO"
+},
+{
+"zip_code": "63559",
+"distance": 188.994,
+"city": "Novinger",
+"state": "MO"
+},
+{
+"zip_code": "64489",
+"distance": 158.922,
+"city": "Stanberry",
+"state": "MO"
+},
+{
+"zip_code": "64679",
+"distance": 157.648,
+"city": "Spickard",
+"state": "MO"
+},
+{
+"zip_code": "64433",
+"distance": 161.766,
+"city": "Conception",
+"state": "MO"
+},
+{
+"zip_code": "63544",
+"distance": 182.602,
+"city": "Green Castle",
+"state": "MO"
+},
+{
+"zip_code": "64471",
+"distance": 151.56,
+"city": "New Hampton",
+"state": "MO"
+},
+{
+"zip_code": "64402",
+"distance": 152.477,
+"city": "Albany",
+"state": "MO"
+},
+{
+"zip_code": "64434",
+"distance": 160.891,
+"city": "Conception Junction",
+"state": "MO"
+},
+{
+"zip_code": "64424",
+"distance": 150.071,
+"city": "Bethany",
+"state": "MO"
+},
+{
+"zip_code": "64432",
+"distance": 158.837,
+"city": "Clyde",
+"state": "MO"
+},
+{
+"zip_code": "63545",
+"distance": 174.304,
+"city": "Greencity",
+"state": "MO"
+},
+{
+"zip_code": "64645",
+"distance": 157.884,
+"city": "Harris",
+"state": "MO"
+},
+{
+"zip_code": "64487",
+"distance": 170.45,
+"city": "Skidmore",
+"state": "MO"
+},
+{
+"zip_code": "68414",
+"distance": 198.925,
+"city": "Nemaha",
+"state": "NE"
+},
+{
+"zip_code": "64446",
+"distance": 184.3,
+"city": "Fairfax",
+"state": "MO"
+},
+{
+"zip_code": "64479",
+"distance": 150.831,
+"city": "Ravenwood",
+"state": "MO"
+},
+{
+"zip_code": "63546",
+"distance": 191.313,
+"city": "Greentop",
+"state": "MO"
+},
+{
+"zip_code": "64468",
+"distance": 157.564,
+"city": "Maryville",
+"state": "MO"
+},
+{
+"zip_code": "64453",
+"distance": 145.529,
+"city": "Gentry",
+"state": "MO"
+},
+{
+"zip_code": "64481",
+"distance": 140.44,
+"city": "Ridgeway",
+"state": "MO"
+},
+{
+"zip_code": "63560",
+"distance": 159.292,
+"city": "Pollock",
+"state": "MO"
+},
+{
+"zip_code": "64673",
+"distance": 142.796,
+"city": "Princeton",
+"state": "MO"
+},
+{
+"zip_code": "64667",
+"distance": 148.811,
+"city": "Newtown",
+"state": "MO"
+},
+{
+"zip_code": "68321",
+"distance": 193.736,
+"city": "Brownville",
+"state": "NE"
+},
+{
+"zip_code": "64441",
+"distance": 136.848,
+"city": "Denver",
+"state": "MO"
+},
+{
+"zip_code": "64499",
+"distance": 139.428,
+"city": "Worth",
+"state": "MO"
+},
+{
+"zip_code": "64467",
+"distance": 134.904,
+"city": "Martinsville",
+"state": "MO"
+},
+{
+"zip_code": "63567",
+"distance": 172.955,
+"city": "Worthington",
+"state": "MO"
+},
+{
+"zip_code": "63561",
+"distance": 182.888,
+"city": "Queen city",
+"state": "MO"
+},
+{
+"zip_code": "64475",
+"distance": 139.459,
+"city": "Parnell",
+"state": "MO"
+},
+{
+"zip_code": "64428",
+"distance": 157.601,
+"city": "Burlington Junction",
+"state": "MO"
+},
+{
+"zip_code": "64491",
+"distance": 170.179,
+"city": "Tarkio",
+"state": "MO"
+},
+{
+"zip_code": "64655",
+"distance": 145.333,
+"city": "Lucerne",
+"state": "MO"
+},
+{
+"zip_code": "64476",
+"distance": 144.772,
+"city": "Pickering",
+"state": "MO"
+},
+{
+"zip_code": "64482",
+"distance": 179.302,
+"city": "Rock Port",
+"state": "MO"
+},
+{
+"zip_code": "64632",
+"distance": 129.137,
+"city": "Cainsville",
+"state": "MO"
+},
+{
+"zip_code": "63565",
+"distance": 155.742,
+"city": "Unionville",
+"state": "MO"
+},
+{
+"zip_code": "64496",
+"distance": 184.023,
+"city": "Watson",
+"state": "MO"
+},
+{
+"zip_code": "63536",
+"distance": 188.932,
+"city": "Downing",
+"state": "MO"
+},
+{
+"zip_code": "64420",
+"distance": 126.907,
+"city": "Allendale",
+"state": "MO"
+},
+{
+"zip_code": "63555",
+"distance": 199.277,
+"city": "Memphis",
+"state": "MO"
+},
+{
+"zip_code": "64442",
+"distance": 124.747,
+"city": "Eagleville",
+"state": "MO"
+},
+{
+"zip_code": "64456",
+"distance": 127.735,
+"city": "Grantcity",
+"state": "MO"
+},
+{
+"zip_code": "68421",
+"distance": 189.133,
+"city": "Peru",
+"state": "NE"
+},
+{
+"zip_code": "63551",
+"distance": 165.155,
+"city": "Livonia",
+"state": "MO"
+},
+{
+"zip_code": "63541",
+"distance": 171.04,
+"city": "Glenwood",
+"state": "MO"
+},
+{
+"zip_code": "64458",
+"distance": 122.231,
+"city": "Hatfield",
+"state": "MO"
+},
+{
+"zip_code": "68379",
+"distance": 195.251,
+"city": "Julian",
+"state": "NE"
+},
+{
+"zip_code": "64461",
+"distance": 137.082,
+"city": "Hopkins",
+"state": "MO"
+},
+{
+"zip_code": "64426",
+"distance": 122.152,
+"city": "Blythedale",
+"state": "MO"
+},
+{
+"zip_code": "64431",
+"distance": 144.552,
+"city": "Clearmont",
+"state": "MO"
+},
+{
+"zip_code": "64486",
+"distance": 129.717,
+"city": "Sheridan",
+"state": "MO"
+},
+{
+"zip_code": "64661",
+"distance": 127.44,
+"city": "Mercer",
+"state": "MO"
+},
+{
+"zip_code": "63548",
+"distance": 176.794,
+"city": "Lancaster",
+"state": "MO"
+},
+{
+"zip_code": "64498",
+"distance": 160.304,
+"city": "Westboro",
+"state": "MO"
+},
+{
+"zip_code": "64445",
+"distance": 150.946,
+"city": "Elmo",
+"state": "MO"
+},
+{
+"zip_code": "64672",
+"distance": 135.755,
+"city": "Powersville",
+"state": "MO"
+},
+{
+"zip_code": "63535",
+"distance": 164.347,
+"city": "Coatsville",
+"state": "MO"
+},
+{
+"zip_code": "51631",
+"distance": 139.392,
+"city": "Braddyville",
+"state": "IA"
+},
+{
+"zip_code": "51630",
+"distance": 147.921,
+"city": "Blanchard",
+"state": "IA"
+},
+{
+"zip_code": "51647",
+"distance": 154.495,
+"city": "Northboro",
+"state": "IA"
+},
+{
+"zip_code": "50065",
+"distance": 113.072,
+"city": "Davis city",
+"state": "IA"
+},
+{
+"zip_code": "50860",
+"distance": 113.446,
+"city": "Redding",
+"state": "IA"
+},
+{
+"zip_code": "52549",
+"distance": 143.798,
+"city": "Cincinnati",
+"state": "IA"
+},
+{
+"zip_code": "52542",
+"distance": 199.642,
+"city": "Cantril",
+"state": "IA"
+},
+{
+"zip_code": "51640",
+"distance": 174.155,
+"city": "Hamburg",
+"state": "IA"
+},
+{
+"zip_code": "51637",
+"distance": 141.808,
+"city": "College Springs",
+"state": "IA"
+},
+{
+"zip_code": "50147",
+"distance": 116.499,
+"city": "Lineville",
+"state": "IA"
+},
+{
+"zip_code": "50836",
+"distance": 115.346,
+"city": "Blockton",
+"state": "IA"
+},
+{
+"zip_code": "68410",
+"distance": 188.526,
+"city": "Nebraska ",
+"state": "NE"
+},
+{
+"zip_code": "52584",
+"distance": 185.268,
+"city": "Pulaski",
+"state": "IA"
+},
+{
+"zip_code": "50052",
+"distance": 118.766,
+"city": "Clio",
+"state": "IA"
+},
+{
+"zip_code": "52555",
+"distance": 148.741,
+"city": "Exline",
+"state": "IA"
+},
+{
+"zip_code": "50140",
+"distance": 107.518,
+"city": "Lamoni",
+"state": "IA"
+},
+{
+"zip_code": "51651",
+"distance": 135.141,
+"city": "Shambaugh",
+"state": "IA"
+},
+{
+"zip_code": "68346",
+"distance": 196.982,
+"city": "Dunbar",
+"state": "NE"
+},
+{
+"zip_code": "52590",
+"distance": 130.766,
+"city": "Seymour",
+"state": "IA"
+},
+{
+"zip_code": "51650",
+"distance": 163.739,
+"city": "Riverton",
+"state": "IA"
+},
+{
+"zip_code": "51636",
+"distance": 144.726,
+"city": "Coin",
+"state": "IA"
+},
+{
+"zip_code": "52572",
+"distance": 154.319,
+"city": "Moulton",
+"state": "IA"
+},
+{
+"zip_code": "50833",
+"distance": 118.245,
+"city": "Bedford",
+"state": "IA"
+},
+{
+"zip_code": "50854",
+"distance": 104.618,
+"city": "Mount Ayr",
+"state": "IA"
+},
+{
+"zip_code": "50008",
+"distance": 117.54,
+"city": "Allerton",
+"state": "IA"
+},
+{
+"zip_code": "52570",
+"distance": 189.153,
+"city": "Milton",
+"state": "IA"
+},
+{
+"zip_code": "52538",
+"distance": 157.778,
+"city": "West Grove",
+"state": "IA"
+},
+{
+"zip_code": "50835",
+"distance": 104.431,
+"city": "Benton",
+"state": "IA"
+},
+{
+"zip_code": "52544",
+"distance": 138.145,
+"city": "Centerville",
+"state": "IA"
+},
+{
+"zip_code": "50133",
+"distance": 99.897,
+"city": "Kellerton",
+"state": "IA"
+},
+{
+"zip_code": "50067",
+"distance": 100.541,
+"city": "Decatur",
+"state": "IA"
+},
+{
+"zip_code": "51639",
+"distance": 154.982,
+"city": "Farragut",
+"state": "IA"
+},
+{
+"zip_code": "51601",
+"distance": 147.145,
+"city": "Shenandoah",
+"state": "IA"
+},
+{
+"zip_code": "68417",
+"distance": 197.508,
+"city": "Otoe",
+"state": "NE"
+},
+{
+"zip_code": "51656",
+"distance": 134.862,
+"city": "Yorktown",
+"state": "IA"
+},
+{
+"zip_code": "52537",
+"distance": 167.621,
+"city": "Bloomfield",
+"state": "IA"
+},
+{
+"zip_code": "50144",
+"distance": 100.256,
+"city": "Leon",
+"state": "IA"
+},
+{
+"zip_code": "51648",
+"distance": 176.165,
+"city": "Percival",
+"state": "IA"
+},
+{
+"zip_code": "51632",
+"distance": 127.791,
+"city": "Clarinda",
+"state": "IA"
+},
+{
+"zip_code": "51646",
+"distance": 118.606,
+"city": "New Market",
+"state": "IA"
+},
+{
+"zip_code": "51602",
+"distance": 146.025,
+"city": "Shenandoah",
+"state": "IA"
+},
+{
+"zip_code": "51603",
+"distance": 146.025,
+"city": "Shenandoah",
+"state": "IA"
+},
+{
+"zip_code": "50060",
+"distance": 113.222,
+"city": "Corydon",
+"state": "IA"
+},
+{
+"zip_code": "52593",
+"distance": 143.113,
+"city": "Udell",
+"state": "IA"
+},
+{
+"zip_code": "51652",
+"distance": 161.811,
+"city": "Sidney",
+"state": "IA"
+},
+{
+"zip_code": "50848",
+"distance": 110.323,
+"city": "Gravity",
+"state": "IA"
+},
+{
+"zip_code": "50840",
+"distance": 99.252,
+"city": "Clearfield",
+"state": "IA"
+},
+{
+"zip_code": "68307",
+"distance": 197.182,
+"city": "Avoca",
+"state": "NE"
+},
+{
+"zip_code": "52583",
+"distance": 117.73,
+"city": "Promise city",
+"state": "IA"
+},
+{
+"zip_code": "50103",
+"distance": 97.765,
+"city": "Garden Grove",
+"state": "IA"
+},
+{
+"zip_code": "52581",
+"distance": 121.762,
+"city": "Plano",
+"state": "IA"
+},
+{
+"zip_code": "52574",
+"distance": 126.63,
+"city": "Mystic",
+"state": "IA"
+},
+{
+"zip_code": "50862",
+"distance": 102.779,
+"city": "Sharpsburg",
+"state": "IA"
+},
+{
+"zip_code": "68455",
+"distance": 178.321,
+"city": "Union",
+"state": "NE"
+},
+{
+"zip_code": "50845",
+"distance": 91.513,
+"city": "Diagonal",
+"state": "IA"
+},
+{
+"zip_code": "52551",
+"distance": 183.868,
+"city": "Douds",
+"state": "IA"
+},
+{
+"zip_code": "50108",
+"distance": 87.704,
+"city": "Grand River",
+"state": "IA"
+},
+{
+"zip_code": "52552",
+"distance": 152.404,
+"city": "Drakesville",
+"state": "IA"
+},
+{
+"zip_code": "50123",
+"distance": 97.142,
+"city": "Humeston",
+"state": "IA"
+},
+{
+"zip_code": "51654",
+"distance": 169.107,
+"city": "Thurman",
+"state": "IA"
+},
+{
+"zip_code": "52594",
+"distance": 144.78,
+"city": "Unionville",
+"state": "IA"
+},
+{
+"zip_code": "51638",
+"distance": 134.659,
+"city": "Essex",
+"state": "IA"
+},
+{
+"zip_code": "50165",
+"distance": 106.405,
+"city": "Millerton",
+"state": "IA"
+},
+{
+"zip_code": "68413",
+"distance": 186.413,
+"city": "Nehawka",
+"state": "NE"
+},
+{
+"zip_code": "50863",
+"distance": 85.644,
+"city": "Tingley",
+"state": "IA"
+},
+{
+"zip_code": "51649",
+"distance": 150.207,
+"city": "Randolph",
+"state": "IA"
+},
+{
+"zip_code": "52560",
+"distance": 171.98,
+"city": "Floris",
+"state": "IA"
+},
+{
+"zip_code": "50262",
+"distance": 85.764,
+"city": "Van Wert",
+"state": "IA"
+},
+{
+"zip_code": "52535",
+"distance": 193.068,
+"city": "Birmingham",
+"state": "IA"
+},
+{
+"zip_code": "52588",
+"distance": 177.213,
+"city": "Selma",
+"state": "IA"
+},
+{
+"zip_code": "50074",
+"distance": 82.962,
+"city": "Ellston",
+"state": "IA"
+},
+{
+"zip_code": "68463",
+"distance": 192.634,
+"city": "Weeping Water",
+"state": "NE"
+},
+{
+"zip_code": "51653",
+"distance": 159.462,
+"city": "Tabor",
+"state": "IA"
+},
+{
+"zip_code": "51645",
+"distance": 141.691,
+"city": "Imogene",
+"state": "IA"
+},
+{
+"zip_code": "52571",
+"distance": 129.168,
+"city": "Moravia",
+"state": "IA"
+},
+{
+"zip_code": "50264",
+"distance": 83.631,
+"city": "Weldon",
+"state": "IA"
+},
+{
+"zip_code": "68409",
+"distance": 177.883,
+"city": "Murray",
+"state": "NE"
+},
+{
+"zip_code": "50861",
+"distance": 80.178,
+"city": "Shannon ",
+"state": "IA"
+},
+{
+"zip_code": "50851",
+"distance": 88.398,
+"city": "Lenox",
+"state": "IA"
+},
+{
+"zip_code": "68403",
+"distance": 193.49,
+"city": "Manley",
+"state": "NE"
+},
+{
+"zip_code": "52554",
+"distance": 169.82,
+"city": "Eldon",
+"state": "IA"
+},
+{
+"zip_code": "52567",
+"distance": 180.854,
+"city": "Libertyville",
+"state": "IA"
+},
+{
+"zip_code": "50831",
+"distance": 75.96,
+"city": "Arispe",
+"state": "IA"
+},
+{
+"zip_code": "50857",
+"distance": 102.154,
+"city": "Nodaway",
+"state": "IA"
+},
+{
+"zip_code": "50068",
+"distance": 88.118,
+"city": "Derby",
+"state": "IA"
+},
+{
+"zip_code": "52536",
+"distance": 140.169,
+"city": "Blakesburg",
+"state": "IA"
+},
+{
+"zip_code": "50238",
+"distance": 102.637,
+"city": "Russell",
+"state": "IA"
+},
+{
+"zip_code": "50864",
+"distance": 105.762,
+"city": "Villisca",
+"state": "IA"
+},
+{
+"zip_code": "51573",
+"distance": 112.655,
+"city": "Stanton",
+"state": "IA"
+},
+{
+"zip_code": "52569",
+"distance": 108.751,
+"city": "Melrose",
+"state": "IA"
+},
+{
+"zip_code": "68037",
+"distance": 187.808,
+"city": "Louisville",
+"state": "NE"
+},
+{
+"zip_code": "68048",
+"distance": 173.299,
+"city": "Plattsmouth",
+"state": "NE"
+},
+{
+"zip_code": "51551",
+"distance": 146.315,
+"city": "Malvern",
+"state": "IA"
+},
+{
+"zip_code": "50254",
+"distance": 68.997,
+"city": "Thayer",
+"state": "IA"
+},
+{
+"zip_code": "52530",
+"distance": 161.547,
+"city": "Agency",
+"state": "IA"
+},
+{
+"zip_code": "68058",
+"distance": 195.84,
+"city": "South Bend",
+"state": "NE"
+},
+{
+"zip_code": "51561",
+"distance": 161.837,
+"city": "Pacific Junction",
+"state": "IA"
+},
+{
+"zip_code": "50841",
+"distance": 90.344,
+"city": "Corning",
+"state": "IA"
+},
+{
+"zip_code": "51591",
+"distance": 118.899,
+"city": "Red Oak",
+"state": "IA"
+},
+{
+"zip_code": "51566",
+"distance": 119.248,
+"city": "Red Oak",
+"state": "IA"
+},
+{
+"zip_code": "52533",
+"distance": 170.453,
+"city": "Batavia",
+"state": "IA"
+},
+{
+"zip_code": "52557",
+"distance": 185.519,
+"city": "Fairfield",
+"state": "IA"
+},
+{
+"zip_code": "52556",
+"distance": 188.349,
+"city": "Fairfield",
+"state": "IA"
+},
+{
+"zip_code": "51540",
+"distance": 138.006,
+"city": "Hastings",
+"state": "IA"
+},
+{
+"zip_code": "52531",
+"distance": 121.442,
+"city": "Albia",
+"state": "IA"
+},
+{
+"zip_code": "50830",
+"distance": 66.149,
+"city": "Afton",
+"state": "IA"
+},
+{
+"zip_code": "50213",
+"distance": 68.494,
+"city": "Osceola",
+"state": "IA"
+},
+{
+"zip_code": "50174",
+"distance": 64.448,
+"city": "Murray",
+"state": "IA"
+},
+{
+"zip_code": "50049",
+"distance": 89.52,
+"city": "Chariton",
+"state": "IA"
+},
+{
+"zip_code": "52501",
+"distance": 149.033,
+"city": "Ottumwa",
+"state": "IA"
+},
+{
+"zip_code": "50275",
+"distance": 74.208,
+"city": "Woodburn",
+"state": "IA"
+},
+{
+"zip_code": "51533",
+"distance": 128.357,
+"city": "Emerson",
+"state": "IA"
+},
+{
+"zip_code": "50842",
+"distance": 72.546,
+"city": "Cromwell",
+"state": "IA"
+},
+{
+"zip_code": "68016",
+"distance": 183.503,
+"city": "Cedar Creek",
+"state": "NE"
+},
+{
+"zip_code": "51534",
+"distance": 153.074,
+"city": "Glenwood",
+"state": "IA"
+},
+{
+"zip_code": "50839",
+"distance": 90.306,
+"city": "Carbon",
+"state": "IA"
+},
+{
+"zip_code": "68059",
+"distance": 186.813,
+"city": "Springfield",
+"state": "NE"
+},
+{
+"zip_code": "50859",
+"distance": 76.198,
+"city": "Prescott",
+"state": "IA"
+},
+{
+"zip_code": "50801",
+"distance": 66.389,
+"city": "Creston",
+"state": "IA"
+},
+{
+"zip_code": "50151",
+"distance": 73.418,
+"city": "Lucas",
+"state": "IA"
+},
+{
+"zip_code": "52548",
+"distance": 138.94,
+"city": "Chillicothe",
+"state": "IA"
+},
+{
+"zip_code": "68056",
+"distance": 177.273,
+"city": "St Columbans",
+"state": "NE"
+},
+{
+"zip_code": "50272",
+"distance": 87.193,
+"city": "Williamson",
+"state": "IA"
+},
+{
+"zip_code": "68123",
+"distance": 168.438,
+"city": "Bellevue",
+"state": "NE"
+},
+{
+"zip_code": "68028",
+"distance": 193.268,
+"city": "Gretna",
+"state": "NE"
+},
+{
+"zip_code": "52580",
+"distance": 172.42,
+"city": "Packwood",
+"state": "IA"
+},
+{
+"zip_code": "68133",
+"distance": 172.128,
+"city": "Papillion",
+"state": "NE"
+},
+{
+"zip_code": "68113",
+"distance": 164.912,
+"city": "Offutt A F B",
+"state": "NE"
+},
+{
+"zip_code": "68046",
+"distance": 176.328,
+"city": "Papillion",
+"state": "NE"
+},
+{
+"zip_code": "50150",
+"distance": 104.214,
+"city": "Lovilia",
+"state": "IA"
+},
+{
+"zip_code": "51571",
+"distance": 140.698,
+"city": "Silver ",
+"state": "IA"
+},
+{
+"zip_code": "51532",
+"distance": 103.369,
+"city": "Elliott",
+"state": "IA"
+},
+{
+"zip_code": "51541",
+"distance": 126.024,
+"city": "Henderson",
+"state": "IA"
+},
+{
+"zip_code": "50847",
+"distance": 94.321,
+"city": "Grant",
+"state": "IA"
+},
+{
+"zip_code": "68005",
+"distance": 162.917,
+"city": "Bellevue",
+"state": "NE"
+},
+{
+"zip_code": "51554",
+"distance": 146.147,
+"city": "Mineola",
+"state": "IA"
+},
+{
+"zip_code": "52566",
+"distance": 138.475,
+"city": "Kirkville",
+"state": "IA"
+},
+{
+"zip_code": "52553",
+"distance": 126.743,
+"city": "Eddyville",
+"state": "IA"
+},
+{
+"zip_code": "50149",
+"distance": 51.318,
+"city": "Lorimor",
+"state": "IA"
+},
+{
+"zip_code": "68138",
+"distance": 181.291,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "52540",
+"distance": 192.117,
+"city": "Brighton",
+"state": "IA"
+},
+{
+"zip_code": "52563",
+"distance": 154.963,
+"city": "Hedrick",
+"state": "IA"
+},
+{
+"zip_code": "68136",
+"distance": 185.497,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "52568",
+"distance": 157.422,
+"city": "Martinsburg",
+"state": "IA"
+},
+{
+"zip_code": "68147",
+"distance": 167.153,
+"city": "Bellevue",
+"state": "NE"
+},
+{
+"zip_code": "68157",
+"distance": 169.707,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "50116",
+"distance": 101.301,
+"city": "Hamilton",
+"state": "IA"
+},
+{
+"zip_code": "50057",
+"distance": 89.717,
+"city": "Columbia",
+"state": "IA"
+},
+{
+"zip_code": "68128",
+"distance": 175.308,
+"city": "La Vista",
+"state": "NE"
+},
+{
+"zip_code": "51549",
+"distance": 127.833,
+"city": "Macedonia",
+"state": "IA"
+},
+{
+"zip_code": "50257",
+"distance": 49.684,
+"city": "Truro",
+"state": "IA"
+},
+{
+"zip_code": "52585",
+"distance": 178.157,
+"city": "Richland",
+"state": "IA"
+},
+{
+"zip_code": "50210",
+"distance": 54.508,
+"city": "New Virginia",
+"state": "IA"
+},
+{
+"zip_code": "50139",
+"distance": 72.534,
+"city": "Lacona",
+"state": "IA"
+},
+{
+"zip_code": "50145",
+"distance": 64.969,
+"city": "Liberty Center",
+"state": "IA"
+},
+{
+"zip_code": "52543",
+"distance": 135.509,
+"city": "Cedar",
+"state": "IA"
+},
+{
+"zip_code": "50044",
+"distance": 106.937,
+"city": "Bussey",
+"state": "IA"
+},
+{
+"zip_code": "68127",
+"distance": 173.331,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68137",
+"distance": 178.874,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68117",
+"distance": 169.334,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68135",
+"distance": 184.892,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68107",
+"distance": 165.509,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "50155",
+"distance": 46.401,
+"city": "Macksburg",
+"state": "IA"
+},
+{
+"zip_code": "52576",
+"distance": 167.156,
+"city": "Ollie",
+"state": "IA"
+},
+{
+"zip_code": "50222",
+"distance": 44.542,
+"city": "Peru",
+"state": "IA"
+},
+{
+"zip_code": "50837",
+"distance": 69.429,
+"city": "Bridgewater",
+"state": "IA"
+},
+{
+"zip_code": "52561",
+"distance": 139.599,
+"city": "Fremont",
+"state": "IA"
+},
+{
+"zip_code": "50858",
+"distance": 53.082,
+"city": "Orient",
+"state": "IA"
+},
+{
+"zip_code": "50163",
+"distance": 79.651,
+"city": "Melcher-dallas",
+"state": "IA"
+},
+{
+"zip_code": "51503",
+"distance": 151.493,
+"city": "Council Bluffs",
+"state": "IA"
+},
+{
+"zip_code": "51535",
+"distance": 99.99,
+"city": "Griswold",
+"state": "IA"
+},
+{
+"zip_code": "51501",
+"distance": 158.892,
+"city": "Council Bluffs",
+"state": "IA"
+},
+{
+"zip_code": "51525",
+"distance": 121.958,
+"city": "Carson",
+"state": "IA"
+},
+{
+"zip_code": "68130",
+"distance": 184.285,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68144",
+"distance": 178.034,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68124",
+"distance": 172.586,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "50062",
+"distance": 78.57,
+"city": "Melcher-dallas",
+"state": "IA"
+},
+{
+"zip_code": "50843",
+"distance": 81.649,
+"city": "Cumberland",
+"state": "IA"
+},
+{
+"zip_code": "50853",
+"distance": 73.405,
+"city": "Massena",
+"state": "IA"
+},
+{
+"zip_code": "68108",
+"distance": 162.737,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68106",
+"distance": 168.526,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68181",
+"distance": 162.657,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "51502",
+"distance": 156.215,
+"city": "Council Bluffs",
+"state": "IA"
+},
+{
+"zip_code": "51575",
+"distance": 136.395,
+"city": "Treynor",
+"state": "IA"
+},
+{
+"zip_code": "68105",
+"distance": 165.351,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68069",
+"distance": 193.923,
+"city": "Waterloo",
+"state": "NE"
+},
+{
+"zip_code": "68010",
+"distance": 178.648,
+"city": "Boys Town",
+"state": "NE"
+},
+{
+"zip_code": "50256",
+"distance": 102.595,
+"city": "Tracy",
+"state": "IA"
+},
+{
+"zip_code": "68101",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68103",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68109",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68119",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68120",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68139",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68145",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68155",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68172",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68175",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68176",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68179",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68180",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68182",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68183",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68198",
+"distance": 168.562,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68197",
+"distance": 162.083,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "52562",
+"distance": 155.3,
+"city": "Hayesville",
+"state": "IA"
+},
+{
+"zip_code": "68102",
+"distance": 162.333,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68132",
+"distance": 167.78,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68114",
+"distance": 171.688,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68118",
+"distance": 182.14,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68131",
+"distance": 164.748,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68154",
+"distance": 176.91,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68178",
+"distance": 163.354,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "52534",
+"distance": 119.57,
+"city": "Beacon",
+"state": "IA"
+},
+{
+"zip_code": "52577",
+"distance": 121.139,
+"city": "Oskaloosa",
+"state": "IA"
+},
+{
+"zip_code": "68022",
+"distance": 187.668,
+"city": "Elkhorn",
+"state": "NE"
+},
+{
+"zip_code": "50166",
+"distance": 62.776,
+"city": "Milo",
+"state": "IA"
+},
+{
+"zip_code": "51510",
+"distance": 160.247,
+"city": "Carter Lake",
+"state": "IA"
+},
+{
+"zip_code": "52595",
+"distance": 124.315,
+"city": "University Park",
+"state": "IA"
+},
+{
+"zip_code": "68104",
+"distance": 167.021,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68111",
+"distance": 163.976,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68164",
+"distance": 175.505,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "50240",
+"distance": 40.709,
+"city": "Saint Charles",
+"state": "IA"
+},
+{
+"zip_code": "68116",
+"distance": 180.376,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "52353",
+"distance": 197.374,
+"city": "Washington",
+"state": "IA"
+},
+{
+"zip_code": "50241",
+"distance": 43.362,
+"city": "Saint Marys",
+"state": "IA"
+},
+{
+"zip_code": "50138",
+"distance": 85.461,
+"city": "Knoxville",
+"state": "IA"
+},
+{
+"zip_code": "68134",
+"distance": 170.671,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "51544",
+"distance": 94.989,
+"city": "Lewis",
+"state": "IA"
+},
+{
+"zip_code": "68110",
+"distance": 157.909,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "50849",
+"distance": 44.231,
+"city": "Greenfield",
+"state": "IA"
+},
+{
+"zip_code": "50846",
+"distance": 55.722,
+"city": "Fontanelle",
+"state": "IA"
+},
+{
+"zip_code": "52550",
+"distance": 144.587,
+"city": "Delta",
+"state": "IA"
+},
+{
+"zip_code": "50119",
+"distance": 97.743,
+"city": "Harvey",
+"state": "IA"
+},
+{
+"zip_code": "51560",
+"distance": 117.759,
+"city": "Oakland",
+"state": "IA"
+},
+{
+"zip_code": "52591",
+"distance": 157.733,
+"city": "Sigourney",
+"state": "IA"
+},
+{
+"zip_code": "51548",
+"distance": 136.77,
+"city": "Mc Clelland",
+"state": "IA"
+},
+{
+"zip_code": "50273",
+"distance": 31.35,
+"city": "Winterset",
+"state": "IA"
+},
+{
+"zip_code": "50125",
+"distance": 49.016,
+"city": "Indianola",
+"state": "IA"
+},
+{
+"zip_code": "50143",
+"distance": 107.437,
+"city": "Leighton",
+"state": "IA"
+},
+{
+"zip_code": "52586",
+"distance": 135.054,
+"city": "Rose Hill",
+"state": "IA"
+},
+{
+"zip_code": "52248",
+"distance": 178.05,
+"city": "Keota",
+"state": "IA"
+},
+{
+"zip_code": "50218",
+"distance": 32.245,
+"city": "Patterson",
+"state": "IA"
+},
+{
+"zip_code": "68064",
+"distance": 194.895,
+"city": "Valley",
+"state": "NE"
+},
+{
+"zip_code": "52359",
+"distance": 188.326,
+"city": "West Chester",
+"state": "IA"
+},
+{
+"zip_code": "52231",
+"distance": 167.665,
+"city": "Harper",
+"state": "IA"
+},
+{
+"zip_code": "50001",
+"distance": 57.824,
+"city": "Ackworth",
+"state": "IA"
+},
+{
+"zip_code": "50033",
+"distance": 34.606,
+"city": "Bevington",
+"state": "IA"
+},
+{
+"zip_code": "68152",
+"distance": 164.966,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68007",
+"distance": 180.88,
+"city": "Bennington",
+"state": "NE"
+},
+{
+"zip_code": "68142",
+"distance": 173.978,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "68122",
+"distance": 169.191,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "50160",
+"distance": 36.634,
+"city": "Martensdale",
+"state": "IA"
+},
+{
+"zip_code": "51526",
+"distance": 154.588,
+"city": "Crescent",
+"state": "IA"
+},
+{
+"zip_code": "68112",
+"distance": 161.735,
+"city": "Omaha",
+"state": "NE"
+},
+{
+"zip_code": "50229",
+"distance": 34.146,
+"city": "Prole",
+"state": "IA"
+},
+{
+"zip_code": "51576",
+"distance": 141.541,
+"city": "Underwood",
+"state": "IA"
+},
+{
+"zip_code": "50274",
+"distance": 72.692,
+"city": "Wiota",
+"state": "IA"
+},
+{
+"zip_code": "50225",
+"distance": 69.243,
+"city": "Pleasantville",
+"state": "IA"
+},
+{
+"zip_code": "51536",
+"distance": 112.671,
+"city": "Hancock",
+"state": "IA"
+},
+{
+"zip_code": "68068",
+"distance": 181.881,
+"city": "Washington",
+"state": "NE"
+},
+{
+"zip_code": "50268",
+"distance": 141.793,
+"city": "What Cheer",
+"state": "IA"
+},
+{
+"zip_code": "50022",
+"distance": 82.352,
+"city": "Atlantic",
+"state": "IA"
+},
+{
+"zip_code": "50219",
+"distance": 97.779,
+"city": "Pella",
+"state": "IA"
+},
+{
+"zip_code": "51553",
+"distance": 126.861,
+"city": "Minden",
+"state": "IA"
+},
+{
+"zip_code": "51542",
+"distance": 151.682,
+"city": "Honey Creek",
+"state": "IA"
+},
+{
+"zip_code": "50207",
+"distance": 118.699,
+"city": "New Sharon",
+"state": "IA"
+},
+{
+"zip_code": "50020",
+"distance": 61.687,
+"city": "Anita",
+"state": "IA"
+},
+{
+"zip_code": "50070",
+"distance": 24.284,
+"city": "Dexter",
+"state": "IA"
+},
+{
+"zip_code": "68023",
+"distance": 165.375,
+"city": "Fort Calhoun",
+"state": "NE"
+},
+{
+"zip_code": "50211",
+"distance": 33.046,
+"city": "Norwalk",
+"state": "IA"
+},
+{
+"zip_code": "50255",
+"distance": 143.442,
+"city": "Thornburg",
+"state": "IA"
+},
+{
+"zip_code": "68034",
+"distance": 182.417,
+"city": "Kennard",
+"state": "NE"
+},
+{
+"zip_code": "52355",
+"distance": 154.989,
+"city": "Webster",
+"state": "IA"
+},
+{
+"zip_code": "51577",
+"distance": 97.999,
+"city": "Walnut",
+"state": "IA"
+},
+{
+"zip_code": "50047",
+"distance": 50.111,
+"city": "Carlisle",
+"state": "IA"
+},
+{
+"zip_code": "50252",
+"distance": 63.638,
+"city": "Swan",
+"state": "IA"
+},
+{
+"zip_code": "51559",
+"distance": 134.626,
+"city": "Neola",
+"state": "IA"
+},
+{
+"zip_code": "50118",
+"distance": 57.557,
+"city": "Hartford",
+"state": "IA"
+},
+{
+"zip_code": "52335",
+"distance": 166.325,
+"city": "South English",
+"state": "IA"
+},
+{
+"zip_code": "50136",
+"distance": 146.521,
+"city": "Keswick",
+"state": "IA"
+},
+{
+"zip_code": "50214",
+"distance": 83.637,
+"city": "Otley",
+"state": "IA"
+},
+{
+"zip_code": "50072",
+"distance": 16.959,
+"city": "Earlham",
+"state": "IA"
+},
+{
+"zip_code": "52356",
+"distance": 183.555,
+"city": "Wellman",
+"state": "IA"
+},
+{
+"zip_code": "50261",
+"distance": 18.497,
+"city": "Van Meter",
+"state": "IA"
+},
+{
+"zip_code": "50027",
+"distance": 131.747,
+"city": "Barnes ",
+"state": "IA"
+},
+{
+"zip_code": "50250",
+"distance": 29.107,
+"city": "Stuart",
+"state": "IA"
+},
+{
+"zip_code": "51521",
+"distance": 109.222,
+"city": "Avoca",
+"state": "IA"
+},
+{
+"zip_code": "50061",
+"distance": 25.62,
+"city": "Cumming",
+"state": "IA"
+},
+{
+"zip_code": "50104",
+"distance": 138.531,
+"city": "Gibson",
+"state": "IA"
+},
+{
+"zip_code": "51552",
+"distance": 90.086,
+"city": "Marne",
+"state": "IA"
+},
+{
+"zip_code": "68002",
+"distance": 191.342,
+"city": "Arlington",
+"state": "NE"
+},
+{
+"zip_code": "50164",
+"distance": 34.131,
+"city": "Menlo",
+"state": "IA"
+},
+{
+"zip_code": "50048",
+"distance": 41.189,
+"city": "Casey",
+"state": "IA"
+},
+{
+"zip_code": "50002",
+"distance": 51.497,
+"city": "Adair",
+"state": "IA"
+},
+{
+"zip_code": "52247",
+"distance": 193.263,
+"city": "Kalona",
+"state": "IA"
+},
+{
+"zip_code": "50069",
+"distance": 10.152,
+"city": "De Soto",
+"state": "IA"
+},
+{
+"zip_code": "50038",
+"distance": 15.083,
+"city": "Booneville",
+"state": "IA"
+},
+{
+"zip_code": "51570",
+"distance": 118.699,
+"city": "Shelby",
+"state": "IA"
+},
+{
+"zip_code": "50320",
+"distance": 40.597,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50170",
+"distance": 76.924,
+"city": "Monroe",
+"state": "IA"
+},
+{
+"zip_code": "50042",
+"distance": 72.251,
+"city": "Brayton",
+"state": "IA"
+},
+{
+"zip_code": "50237",
+"distance": 56.768,
+"city": "Runnells",
+"state": "IA"
+},
+{
+"zip_code": "50321",
+"distance": 32.553,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "68009",
+"distance": 173.778,
+"city": "Blair",
+"state": "NE"
+},
+{
+"zip_code": "52316",
+"distance": 162.212,
+"city": "North English",
+"state": "IA"
+},
+{
+"zip_code": "50315",
+"distance": 35.761,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "68008",
+"distance": 176.444,
+"city": "Blair",
+"state": "NE"
+},
+{
+"zip_code": "68044",
+"distance": 199.661,
+"city": "Nickerson",
+"state": "NE"
+},
+{
+"zip_code": "50265",
+"distance": 25.564,
+"city": "West Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50232",
+"distance": 89.476,
+"city": "Reasnor",
+"state": "IA"
+},
+{
+"zip_code": "51555",
+"distance": 156.463,
+"city": "Missouri Valley",
+"state": "IA"
+},
+{
+"zip_code": "50242",
+"distance": 112.357,
+"city": "Searsboro",
+"state": "IA"
+},
+{
+"zip_code": "50251",
+"distance": 97.733,
+"city": "Sully",
+"state": "IA"
+},
+{
+"zip_code": "50398",
+"distance": 24.802,
+"city": "Urbandale",
+"state": "IA"
+},
+{
+"zip_code": "50983",
+"distance": 32.186,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50301",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50302",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50303",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50304",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50305",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50306",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50307",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50308",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50318",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50328",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50329",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50330",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50331",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50332",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50333",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50334",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50335",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50336",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50339",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50340",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50359",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50360",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50361",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50362",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50363",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50364",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50367",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50368",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50369",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50380",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50381",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50391",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50392",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50393",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50394",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50395",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50396",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50936",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50940",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50947",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50950",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50980",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50981",
+"distance": 36.306,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50266",
+"distance": 20.857,
+"city": "West Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "51563",
+"distance": 128.363,
+"city": "Persia",
+"state": "IA"
+},
+{
+"zip_code": "52308",
+"distance": 156.759,
+"city": "Millersburg",
+"state": "IA"
+},
+{
+"zip_code": "50153",
+"distance": 102.871,
+"city": "Lynnville",
+"state": "IA"
+},
+{
+"zip_code": "52222",
+"distance": 141.62,
+"city": "Deep River",
+"state": "IA"
+},
+{
+"zip_code": "50228",
+"distance": 66.726,
+"city": "Prairie city",
+"state": "IA"
+},
+{
+"zip_code": "50982",
+"distance": 34.524,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50312",
+"distance": 30.632,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "52325",
+"distance": 176.072,
+"city": "Parnell",
+"state": "IA"
+},
+{
+"zip_code": "50309",
+"distance": 35.234,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50171",
+"distance": 126.225,
+"city": "Montezuma",
+"state": "IA"
+},
+{
+"zip_code": "50327",
+"distance": 46.252,
+"city": "Pleasant Hill",
+"state": "IA"
+},
+{
+"zip_code": "51531",
+"distance": 86.862,
+"city": "Elk Horn",
+"state": "IA"
+},
+{
+"zip_code": "50319",
+"distance": 36.553,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50076",
+"distance": 66.464,
+"city": "Exira",
+"state": "IA"
+},
+{
+"zip_code": "50263",
+"distance": 14.115,
+"city": "Waukee",
+"state": "IA"
+},
+{
+"zip_code": "50347",
+"distance": 36.857,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50397",
+"distance": 36.857,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50311",
+"distance": 30.796,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50324",
+"distance": 27.463,
+"city": "Windsor Heights",
+"state": "IA"
+},
+{
+"zip_code": "50314",
+"distance": 34.247,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50316",
+"distance": 36.868,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50003",
+"distance": 0,
+"city": "Adel",
+"state": "IA"
+},
+{
+"zip_code": "50233",
+"distance": 13.996,
+"city": "Redfield",
+"state": "IA"
+},
+{
+"zip_code": "50325",
+"distance": 20.382,
+"city": "Clive",
+"state": "IA"
+},
+{
+"zip_code": "50317",
+"distance": 41.273,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50323",
+"distance": 20.79,
+"city": "Urbandale",
+"state": "IA"
+},
+{
+"zip_code": "50310",
+"distance": 30.839,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50322",
+"distance": 25.78,
+"city": "Urbandale",
+"state": "IA"
+},
+{
+"zip_code": "51546",
+"distance": 143.246,
+"city": "Logan",
+"state": "IA"
+},
+{
+"zip_code": "50137",
+"distance": 95.058,
+"city": "Killduff",
+"state": "IA"
+},
+{
+"zip_code": "52221",
+"distance": 142.276,
+"city": "Guernsey",
+"state": "IA"
+},
+{
+"zip_code": "51556",
+"distance": 165.121,
+"city": "Modale",
+"state": "IA"
+},
+{
+"zip_code": "51565",
+"distance": 123.177,
+"city": "Portsmouth",
+"state": "IA"
+},
+{
+"zip_code": "50009",
+"distance": 48.656,
+"city": "Altoona",
+"state": "IA"
+},
+{
+"zip_code": "52361",
+"distance": 167.365,
+"city": "Williamsburg",
+"state": "IA"
+},
+{
+"zip_code": "51593",
+"distance": 106.217,
+"city": "Harlan",
+"state": "IA"
+},
+{
+"zip_code": "51537",
+"distance": 104.35,
+"city": "Harlan",
+"state": "IA"
+},
+{
+"zip_code": "50313",
+"distance": 35.136,
+"city": "Des Moines",
+"state": "IA"
+},
+{
+"zip_code": "50169",
+"distance": 57.609,
+"city": "Mitchellville",
+"state": "IA"
+},
+{
+"zip_code": "51543",
+"distance": 85.989,
+"city": "Kimballton",
+"state": "IA"
+},
+{
+"zip_code": "68029",
+"distance": 185.436,
+"city": "Herman",
+"state": "NE"
+},
+{
+"zip_code": "50032",
+"distance": 42.051,
+"city": "Berwick",
+"state": "IA"
+},
+{
+"zip_code": "50117",
+"distance": 67.253,
+"city": "Hamlin",
+"state": "IA"
+},
+{
+"zip_code": "50115",
+"distance": 43.817,
+"city": "Guthrie Center",
+"state": "IA"
+},
+{
+"zip_code": "50146",
+"distance": 18.477,
+"city": "Linden",
+"state": "IA"
+},
+{
+"zip_code": "50054",
+"distance": 67.842,
+"city": "Colfax",
+"state": "IA"
+},
+{
+"zip_code": "50131",
+"distance": 28.678,
+"city": "Johnston",
+"state": "IA"
+},
+{
+"zip_code": "51550",
+"distance": 152.403,
+"city": "Magnolia",
+"state": "IA"
+},
+{
+"zip_code": "52322",
+"distance": 189.661,
+"city": "Oxford",
+"state": "IA"
+},
+{
+"zip_code": "50063",
+"distance": 12.635,
+"city": "Dallas Center",
+"state": "IA"
+},
+{
+"zip_code": "50216",
+"distance": 27.598,
+"city": "Panora",
+"state": "IA"
+},
+{
+"zip_code": "50111",
+"distance": 21.996,
+"city": "Grimes",
+"state": "IA"
+},
+{
+"zip_code": "52340",
+"distance": 196.846,
+"city": "Tiffin",
+"state": "IA"
+},
+{
+"zip_code": "52251",
+"distance": 154.109,
+"city": "Ladora",
+"state": "IA"
+},
+{
+"zip_code": "50208",
+"distance": 84.562,
+"city": "Newton",
+"state": "IA"
+},
+{
+"zip_code": "52347",
+"distance": 146.512,
+"city": "Victor",
+"state": "IA"
+},
+{
+"zip_code": "51578",
+"distance": 112.905,
+"city": "Westphalia",
+"state": "IA"
+},
+{
+"zip_code": "51447",
+"distance": 96.556,
+"city": "Kirkman",
+"state": "IA"
+},
+{
+"zip_code": "50035",
+"distance": 50.171,
+"city": "Bondurant",
+"state": "IA"
+},
+{
+"zip_code": "50021",
+"distance": 41.614,
+"city": "Ankeny",
+"state": "IA"
+},
+{
+"zip_code": "51562",
+"distance": 121.125,
+"city": "Panama",
+"state": "IA"
+},
+{
+"zip_code": "52220",
+"distance": 170.323,
+"city": "Conroy",
+"state": "IA"
+},
+{
+"zip_code": "50112",
+"distance": 111.054,
+"city": "Grinnell",
+"state": "IA"
+},
+{
+"zip_code": "50023",
+"distance": 36.374,
+"city": "Ankeny",
+"state": "IA"
+},
+{
+"zip_code": "51557",
+"distance": 162.888,
+"city": "Mondamin",
+"state": "IA"
+},
+{
+"zip_code": "52236",
+"distance": 180.447,
+"city": "Homestead",
+"state": "IA"
+},
+{
+"zip_code": "50157",
+"distance": 123.744,
+"city": "Malcom",
+"state": "IA"
+},
+{
+"zip_code": "52334",
+"distance": 175.15,
+"city": "South Amana",
+"state": "IA"
+},
+{
+"zip_code": "50167",
+"distance": 14.61,
+"city": "Minburn",
+"state": "IA"
+},
+{
+"zip_code": "50135",
+"distance": 97.227,
+"city": "Kellogg",
+"state": "IA"
+},
+{
+"zip_code": "52211",
+"distance": 133.255,
+"city": "Brooklyn",
+"state": "IA"
+},
+{
+"zip_code": "50025",
+"distance": 74.914,
+"city": "Audubon",
+"state": "IA"
+},
+{
+"zip_code": "51579",
+"distance": 140.18,
+"city": "Woodbine",
+"state": "IA"
+},
+{
+"zip_code": "50109",
+"distance": 26.817,
+"city": "Granger",
+"state": "IA"
+},
+{
+"zip_code": "51446",
+"distance": 97.105,
+"city": "Irwin",
+"state": "IA"
+},
+{
+"zip_code": "50127",
+"distance": 71.912,
+"city": "Ira",
+"state": "IA"
+},
+{
+"zip_code": "68019",
+"distance": 194.556,
+"city": "Craig",
+"state": "NE"
+},
+{
+"zip_code": "50277",
+"distance": 32.448,
+"city": "Yale",
+"state": "IA"
+},
+{
+"zip_code": "51530",
+"distance": 116.84,
+"city": "Earling",
+"state": "IA"
+},
+{
+"zip_code": "50168",
+"distance": 66.445,
+"city": "Mingo",
+"state": "IA"
+},
+{
+"zip_code": "52301",
+"distance": 163.949,
+"city": "Marengo",
+"state": "IA"
+},
+{
+"zip_code": "52307",
+"distance": 179.158,
+"city": "Middle Amana",
+"state": "IA"
+},
+{
+"zip_code": "68061",
+"distance": 180.848,
+"city": "Tekamah",
+"state": "NE"
+},
+{
+"zip_code": "50073",
+"distance": 47.529,
+"city": "Elkhart",
+"state": "IA"
+},
+{
+"zip_code": "50226",
+"distance": 34.98,
+"city": "Polk city",
+"state": "IA"
+},
+{
+"zip_code": "50066",
+"distance": 26.08,
+"city": "Dawson",
+"state": "IA"
+},
+{
+"zip_code": "52204",
+"distance": 182.427,
+"city": "Amana",
+"state": "IA"
+},
+{
+"zip_code": "52232",
+"distance": 143.331,
+"city": "Hartwick",
+"state": "IA"
+},
+{
+"zip_code": "50007",
+"distance": 42.567,
+"city": "Alleman",
+"state": "IA"
+},
+{
+"zip_code": "50028",
+"distance": 76.907,
+"city": "Baxter",
+"state": "IA"
+},
+{
+"zip_code": "51564",
+"distance": 157.583,
+"city": "Pisgah",
+"state": "IA"
+},
+{
+"zip_code": "52203",
+"distance": 179.989,
+"city": "Amana",
+"state": "IA"
+},
+{
+"zip_code": "50039",
+"distance": 22.883,
+"city": "Bouton",
+"state": "IA"
+},
+{
+"zip_code": "52338",
+"distance": 195.204,
+"city": "Swisher",
+"state": "IA"
+},
+{
+"zip_code": "50029",
+"distance": 48.957,
+"city": "Bayard",
+"state": "IA"
+},
+{
+"zip_code": "50220",
+"distance": 25.839,
+"city": "Perry",
+"state": "IA"
+},
+{
+"zip_code": "51527",
+"distance": 110.307,
+"city": "Defiance",
+"state": "IA"
+},
+{
+"zip_code": "50110",
+"distance": 81.804,
+"city": "Gray",
+"state": "IA"
+},
+{
+"zip_code": "51545",
+"distance": 166.942,
+"city": "Little Sioux",
+"state": "IA"
+},
+{
+"zip_code": "50161",
+"distance": 59.196,
+"city": "Maxwell",
+"state": "IA"
+},
+{
+"zip_code": "50128",
+"distance": 34.528,
+"city": "Jamaica",
+"state": "IA"
+},
+{
+"zip_code": "50058",
+"distance": 60.236,
+"city": "Coon Rapids",
+"state": "IA"
+},
+{
+"zip_code": "50244",
+"distance": 42.401,
+"city": "Slater",
+"state": "IA"
+},
+{
+"zip_code": "50026",
+"distance": 43.502,
+"city": "Bagley",
+"state": "IA"
+},
+{
+"zip_code": "51529",
+"distance": 135.65,
+"city": "Dunlap",
+"state": "IA"
+},
+{
+"zip_code": "50276",
+"distance": 29.486,
+"city": "Woodward",
+"state": "IA"
+},
+{
+"zip_code": "50141",
+"distance": 95.076,
+"city": "Laurel",
+"state": "IA"
+},
+{
+"zip_code": "51454",
+"distance": 100.461,
+"city": "Manilla",
+"state": "IA"
+},
+{
+"zip_code": "50243",
+"distance": 40.849,
+"city": "Sheldahl",
+"state": "IA"
+},
+{
+"zip_code": "52208",
+"distance": 151.09,
+"city": "Belle Plaine",
+"state": "IA"
+},
+{
+"zip_code": "52351",
+"distance": 185.831,
+"city": "Walford",
+"state": "IA"
+},
+{
+"zip_code": "50055",
+"distance": 68.718,
+"city": "Collins",
+"state": "IA"
+},
+{
+"zip_code": "50106",
+"distance": 106.931,
+"city": "Gilman",
+"state": "IA"
+},
+{
+"zip_code": "50124",
+"distance": 47.491,
+"city": "Huxley",
+"state": "IA"
+},
+{
+"zip_code": "52318",
+"distance": 181.032,
+"city": "Norway",
+"state": "IA"
+},
+{
+"zip_code": "50059",
+"distance": 39.061,
+"city": "Cooper",
+"state": "IA"
+},
+{
+"zip_code": "50234",
+"distance": 77.989,
+"city": "Rhodes",
+"state": "IA"
+},
+{
+"zip_code": "50046",
+"distance": 53.323,
+"city": "Cambridge",
+"state": "IA"
+},
+{
+"zip_code": "50156",
+"distance": 37.674,
+"city": "Madrid",
+"state": "IA"
+},
+{
+"zip_code": "51558",
+"distance": 154.986,
+"city": "Moorhead",
+"state": "IA"
+},
+{
+"zip_code": "52228",
+"distance": 189.763,
+"city": "Fairfax",
+"state": "IA"
+},
+{
+"zip_code": "51463",
+"distance": 79.29,
+"city": "Templeton",
+"state": "IA"
+},
+{
+"zip_code": "52209",
+"distance": 164.721,
+"city": "Blairstown",
+"state": "IA"
+},
+{
+"zip_code": "51528",
+"distance": 125.382,
+"city": "Dow city",
+"state": "IA"
+},
+{
+"zip_code": "51432",
+"distance": 96.073,
+"city": "Aspinwall",
+"state": "IA"
+},
+{
+"zip_code": "51455",
+"distance": 90.335,
+"city": "Manning",
+"state": "IA"
+},
+{
+"zip_code": "51440",
+"distance": 72.143,
+"city": "Dedham",
+"state": "IA"
+},
+{
+"zip_code": "52215",
+"distance": 139.924,
+"city": "Chelsea",
+"state": "IA"
+},
+{
+"zip_code": "51523",
+"distance": 171.286,
+"city": "Blencoe",
+"state": "IA"
+},
+{
+"zip_code": "52354",
+"distance": 173.789,
+"city": "Watkins",
+"state": "IA"
+},
+{
+"zip_code": "52257",
+"distance": 158.438,
+"city": "Luzerne",
+"state": "IA"
+},
+{
+"zip_code": "52404",
+"distance": 197.469,
+"city": "Cedar Rapids",
+"state": "IA"
+},
+{
+"zip_code": "52339",
+"distance": 125.764,
+"city": "Tama",
+"state": "IA"
+},
+{
+"zip_code": "50162",
+"distance": 87.883,
+"city": "Melbourne",
+"state": "IA"
+},
+{
+"zip_code": "50235",
+"distance": 38.678,
+"city": "Rippey",
+"state": "IA"
+},
+{
+"zip_code": "50120",
+"distance": 94.938,
+"city": "Haverhill",
+"state": "IA"
+},
+{
+"zip_code": "50078",
+"distance": 104.39,
+"city": "Ferguson",
+"state": "IA"
+},
+{
+"zip_code": "50134",
+"distance": 47.734,
+"city": "Kelley",
+"state": "IA"
+},
+{
+"zip_code": "50152",
+"distance": 43.3,
+"city": "Luther",
+"state": "IA"
+},
+{
+"zip_code": "50173",
+"distance": 117.014,
+"city": "Montour",
+"state": "IA"
+},
+{
+"zip_code": "51520",
+"distance": 124.148,
+"city": "Arion",
+"state": "IA"
+},
+{
+"zip_code": "68020",
+"distance": 188.43,
+"city": "Decatur",
+"state": "NE"
+},
+{
+"zip_code": "52405",
+"distance": 194.817,
+"city": "Cedar Rapids",
+"state": "IA"
+},
+{
+"zip_code": "52348",
+"distance": 144.018,
+"city": "Vining",
+"state": "IA"
+},
+{
+"zip_code": "52206",
+"distance": 183.762,
+"city": "Atkins",
+"state": "IA"
+},
+{
+"zip_code": "51572",
+"distance": 150.439,
+"city": "Soldier",
+"state": "IA"
+},
+{
+"zip_code": "52315",
+"distance": 177.184,
+"city": "Newhall",
+"state": "IA"
+},
+{
+"zip_code": "51444",
+"distance": 88.631,
+"city": "Halbur",
+"state": "IA"
+},
+{
+"zip_code": "50142",
+"distance": 113.862,
+"city": "Le Grand",
+"state": "IA"
+},
+{
+"zip_code": "52346",
+"distance": 168.564,
+"city": "Van Horne",
+"state": "IA"
+},
+{
+"zip_code": "52225",
+"distance": 149.001,
+"city": "Elberon",
+"state": "IA"
+},
+{
+"zip_code": "50056",
+"distance": 76.306,
+"city": "Colo",
+"state": "IA"
+},
+{
+"zip_code": "52249",
+"distance": 158.735,
+"city": "Keystone",
+"state": "IA"
+},
+{
+"zip_code": "51462",
+"distance": 61.789,
+"city": "Scranton",
+"state": "IA"
+},
+{
+"zip_code": "50129",
+"distance": 52.684,
+"city": "Jefferson",
+"state": "IA"
+},
+{
+"zip_code": "50247",
+"distance": 85.656,
+"city": "state Center",
+"state": "IA"
+},
+{
+"zip_code": "50013",
+"distance": 57.378,
+"city": "Ames",
+"state": "IA"
+},
+{
+"zip_code": "50011",
+"distance": 56.915,
+"city": "Ames",
+"state": "IA"
+},
+{
+"zip_code": "50012",
+"distance": 56.702,
+"city": "Ames",
+"state": "IA"
+},
+{
+"zip_code": "51442",
+"distance": 118.58,
+"city": "Denison",
+"state": "IA"
+},
+{
+"zip_code": "50031",
+"distance": 47.223,
+"city": "Beaver",
+"state": "IA"
+},
+{
+"zip_code": "50010",
+"distance": 59.946,
+"city": "Ames",
+"state": "IA"
+},
+{
+"zip_code": "51040",
+"distance": 175.829,
+"city": "Onawa",
+"state": "IA"
+},
+{
+"zip_code": "50107",
+"distance": 49.461,
+"city": "Grand Junction",
+"state": "IA"
+},
+{
+"zip_code": "50212",
+"distance": 47.303,
+"city": "Ogden",
+"state": "IA"
+},
+{
+"zip_code": "50201",
+"distance": 69.479,
+"city": "Nevada",
+"state": "IA"
+},
+{
+"zip_code": "51060",
+"distance": 144.191,
+"city": "Ute",
+"state": "IA"
+},
+{
+"zip_code": "51459",
+"distance": 68.961,
+"city": "Ralston",
+"state": "IA"
+},
+{
+"zip_code": "50014",
+"distance": 56.317,
+"city": "Ames",
+"state": "IA"
+},
+{
+"zip_code": "50158",
+"distance": 106.453,
+"city": "Marshalltown",
+"state": "IA"
+},
+{
+"zip_code": "50099",
+"distance": 50.595,
+"city": "Boone",
+"state": "IA"
+},
+{
+"zip_code": "50037",
+"distance": 50.822,
+"city": "Boone",
+"state": "IA"
+},
+{
+"zip_code": "52411",
+"distance": 197.902,
+"city": "Cedar Rapids",
+"state": "IA"
+},
+{
+"zip_code": "52342",
+"distance": 133.464,
+"city": "Toledo",
+"state": "IA"
+},
+{
+"zip_code": "50632",
+"distance": 122.049,
+"city": "Garwin",
+"state": "IA"
+},
+{
+"zip_code": "52324",
+"distance": 192.013,
+"city": "Palo",
+"state": "IA"
+},
+{
+"zip_code": "51401",
+"distance": 85.087,
+"city": "Carroll",
+"state": "IA"
+},
+{
+"zip_code": "51467",
+"distance": 102.757,
+"city": "Westside",
+"state": "IA"
+},
+{
+"zip_code": "52217",
+"distance": 145.114,
+"city": "Clutier",
+"state": "IA"
+},
+{
+"zip_code": "51443",
+"distance": 75.291,
+"city": "Glidden",
+"state": "IA"
+},
+{
+"zip_code": "51430",
+"distance": 96.707,
+"city": "Arcadia",
+"state": "IA"
+},
+{
+"zip_code": "50036",
+"distance": 54.753,
+"city": "Boone",
+"state": "IA"
+},
+{
+"zip_code": "51010",
+"distance": 163.357,
+"city": "Castana",
+"state": "IA"
+},
+{
+"zip_code": "51465",
+"distance": 109.495,
+"city": "Vail",
+"state": "IA"
+},
+{
+"zip_code": "51439",
+"distance": 138.717,
+"city": "Charter Oak",
+"state": "IA"
+},
+{
+"zip_code": "52332",
+"distance": 186.491,
+"city": "Shellsburg",
+"state": "IA"
+},
+{
+"zip_code": "52341",
+"distance": 199.499,
+"city": "Toddville",
+"state": "IA"
+},
+{
+"zip_code": "50064",
+"distance": 57.46,
+"city": "Dana",
+"state": "IA"
+},
+{
+"zip_code": "50105",
+"distance": 64.846,
+"city": "Gilbert",
+"state": "IA"
+},
+{
+"zip_code": "51441",
+"distance": 119.231,
+"city": "Deloit",
+"state": "IA"
+},
+{
+"zip_code": "68039",
+"distance": 198.875,
+"city": "Macy",
+"state": "NE"
+},
+{
+"zip_code": "51460",
+"distance": 138.509,
+"city": "Ricketts",
+"state": "IA"
+},
+{
+"zip_code": "51452",
+"distance": 83.194,
+"city": "Lidderdale",
+"state": "IA"
+},
+{
+"zip_code": "50005",
+"distance": 101.593,
+"city": "Albion",
+"state": "IA"
+},
+{
+"zip_code": "50051",
+"distance": 94.691,
+"city": "Clemons",
+"state": "IA"
+},
+{
+"zip_code": "50278",
+"distance": 84.857,
+"city": "Zearing",
+"state": "IA"
+},
+{
+"zip_code": "51063",
+"distance": 185.483,
+"city": "Whiting",
+"state": "IA"
+},
+{
+"zip_code": "50239",
+"distance": 91.255,
+"city": "Saint Anthony",
+"state": "IA"
+},
+{
+"zip_code": "52229",
+"distance": 166.071,
+"city": "Garrison",
+"state": "IA"
+},
+{
+"zip_code": "50050",
+"distance": 71.83,
+"city": "Churdan",
+"state": "IA"
+},
+{
+"zip_code": "51034",
+"distance": 156.952,
+"city": "Mapleton",
+"state": "IA"
+},
+{
+"zip_code": "52224",
+"distance": 156.917,
+"city": "Dysart",
+"state": "IA"
+},
+{
+"zip_code": "50040",
+"distance": 62.281,
+"city": "Boxholm",
+"state": "IA"
+},
+{
+"zip_code": "50154",
+"distance": 82.37,
+"city": "Mc Callsburg",
+"state": "IA"
+},
+{
+"zip_code": "52349",
+"distance": 179.522,
+"city": "Vinton",
+"state": "IA"
+},
+{
+"zip_code": "50223",
+"distance": 62.516,
+"city": "Pilot Mound",
+"state": "IA"
+},
+{
+"zip_code": "51461",
+"distance": 134.881,
+"city": "Schleswig",
+"state": "IA"
+},
+{
+"zip_code": "50236",
+"distance": 77.882,
+"city": "Roland",
+"state": "IA"
+},
+{
+"zip_code": "50148",
+"distance": 107.562,
+"city": "Liscomb",
+"state": "IA"
+},
+{
+"zip_code": "50217",
+"distance": 65.937,
+"city": "Paton",
+"state": "IA"
+},
+{
+"zip_code": "51451",
+"distance": 83.467,
+"city": "Lanesboro",
+"state": "IA"
+},
+{
+"zip_code": "51436",
+"distance": 103.541,
+"city": "Breda",
+"state": "IA"
+},
+{
+"zip_code": "50248",
+"distance": 73.578,
+"city": "Story city",
+"state": "IA"
+},
+{
+"zip_code": "50675",
+"distance": 142.483,
+"city": "Traer",
+"state": "IA"
+},
+{
+"zip_code": "50635",
+"distance": 129.138,
+"city": "Gladbrook",
+"state": "IA"
+},
+{
+"zip_code": "51448",
+"distance": 123.891,
+"city": "Kiron",
+"state": "IA"
+},
+{
+"zip_code": "51051",
+"distance": 172.234,
+"city": "Rodney",
+"state": "IA"
+},
+{
+"zip_code": "51055",
+"distance": 195.667,
+"city": "Sloan",
+"state": "IA"
+},
+{
+"zip_code": "50258",
+"distance": 105.263,
+"city": "Union",
+"state": "IA"
+},
+{
+"zip_code": "50609",
+"distance": 122.968,
+"city": "Beaman",
+"state": "IA"
+},
+{
+"zip_code": "50231",
+"distance": 78.529,
+"city": "Randall",
+"state": "IA"
+},
+{
+"zip_code": "51056",
+"distance": 173.086,
+"city": "Smithland",
+"state": "IA"
+},
+{
+"zip_code": "50102",
+"distance": 88.309,
+"city": "Garden city",
+"state": "IA"
+},
+{
+"zip_code": "52345",
+"distance": 190.67,
+"city": "Urbana",
+"state": "IA"
+},
+{
+"zip_code": "50206",
+"distance": 99.043,
+"city": "New Providence",
+"state": "IA"
+},
+{
+"zip_code": "50544",
+"distance": 71.857,
+"city": "Harcourt",
+"state": "IA"
+},
+{
+"zip_code": "50621",
+"distance": 116.93,
+"city": "Conrad",
+"state": "IA"
+},
+{
+"zip_code": "51026",
+"distance": 182.169,
+"city": "Hornick",
+"state": "IA"
+},
+{
+"zip_code": "51466",
+"distance": 113.561,
+"city": "Wall Lake",
+"state": "IA"
+},
+{
+"zip_code": "52313",
+"distance": 176.263,
+"city": "Mount Auburn",
+"state": "IA"
+},
+{
+"zip_code": "50269",
+"distance": 111.808,
+"city": "Whitten",
+"state": "IA"
+},
+{
+"zip_code": "50652",
+"distance": 133.13,
+"city": "Lincoln",
+"state": "IA"
+},
+{
+"zip_code": "51433",
+"distance": 100.23,
+"city": "Auburn",
+"state": "IA"
+},
+{
+"zip_code": "51449",
+"distance": 92.715,
+"city": "Lake city",
+"state": "IA"
+},
+{
+"zip_code": "51453",
+"distance": 84.242,
+"city": "Lohrville",
+"state": "IA"
+},
+{
+"zip_code": "50530",
+"distance": 73.253,
+"city": "Dayton",
+"state": "IA"
+},
+{
+"zip_code": "51019",
+"distance": 158.423,
+"city": "Danbury",
+"state": "IA"
+},
+{
+"zip_code": "50538",
+"distance": 80.647,
+"city": "Farnhamville",
+"state": "IA"
+},
+{
+"zip_code": "50246",
+"distance": 76.731,
+"city": "Stanhope",
+"state": "IA"
+},
+{
+"zip_code": "50543",
+"distance": 76.852,
+"city": "Gowrie",
+"state": "IA"
+},
+{
+"zip_code": "50249",
+"distance": 74.713,
+"city": "Stratford",
+"state": "IA"
+},
+{
+"zip_code": "50612",
+"distance": 156.077,
+"city": "Buckingham",
+"state": "IA"
+},
+{
+"zip_code": "50259",
+"distance": 109.869,
+"city": "Gifford",
+"state": "IA"
+},
+{
+"zip_code": "50230",
+"distance": 91.068,
+"city": "Radcliffe",
+"state": "IA"
+},
+{
+"zip_code": "50130",
+"distance": 82.91,
+"city": "Jewell",
+"state": "IA"
+},
+{
+"zip_code": "50122",
+"distance": 98.022,
+"city": "Hubbard",
+"state": "IA"
+},
+{
+"zip_code": "51044",
+"distance": 173.22,
+"city": "Oto",
+"state": "IA"
+},
+{
+"zip_code": "51052",
+"distance": 199.459,
+"city": "Salix",
+"state": "IA"
+},
+{
+"zip_code": "51450",
+"distance": 112.596,
+"city": "Lake View",
+"state": "IA"
+},
+{
+"zip_code": "50651",
+"distance": 171.626,
+"city": "La Porte city",
+"state": "IA"
+},
+{
+"zip_code": "51006",
+"distance": 152.348,
+"city": "Battle Creek",
+"state": "IA"
+},
+{
+"zip_code": "51445",
+"distance": 141.414,
+"city": "Ida Grove",
+"state": "IA"
+},
+{
+"zip_code": "51458",
+"distance": 126.627,
+"city": "Odebolt",
+"state": "IA"
+},
+{
+"zip_code": "50075",
+"distance": 89.877,
+"city": "Ellsworth",
+"state": "IA"
+},
+{
+"zip_code": "52210",
+"distance": 187.549,
+"city": "Brandon",
+"state": "IA"
+},
+{
+"zip_code": "51015",
+"distance": 186.107,
+"city": "Climbing Hill",
+"state": "IA"
+},
+{
+"zip_code": "50657",
+"distance": 139.44,
+"city": "Morrison",
+"state": "IA"
+},
+{
+"zip_code": "50669",
+"distance": 144.228,
+"city": "Reinbeck",
+"state": "IA"
+},
+{
+"zip_code": "51431",
+"distance": 135.466,
+"city": "Arthur",
+"state": "IA"
+},
+{
+"zip_code": "50521",
+"distance": 81.847,
+"city": "Burnside",
+"state": "IA"
+},
+{
+"zip_code": "50627",
+"distance": 113.6,
+"city": "Eldora",
+"state": "IA"
+},
+{
+"zip_code": "50638",
+"distance": 132.382,
+"city": "Grundy Center",
+"state": "IA"
+},
+{
+"zip_code": "50643",
+"distance": 154.656,
+"city": "Hudson",
+"state": "IA"
+},
+{
+"zip_code": "52329",
+"distance": 198.943,
+"city": "Rowley",
+"state": "IA"
+},
+{
+"zip_code": "50557",
+"distance": 83.318,
+"city": "Lehigh",
+"state": "IA"
+},
+{
+"zip_code": "50523",
+"distance": 86.672,
+"city": "Callender",
+"state": "IA"
+},
+{
+"zip_code": "51004",
+"distance": 176.48,
+"city": "Anthon",
+"state": "IA"
+},
+{
+"zip_code": "50132",
+"distance": 91.484,
+"city": "Kamrar",
+"state": "IA"
+},
+{
+"zip_code": "50579",
+"distance": 99.999,
+"city": "Rockwell city",
+"state": "IA"
+},
+{
+"zip_code": "50706",
+"distance": 171.435,
+"city": "Waterloo",
+"state": "IA"
+},
+{
+"zip_code": "50569",
+"distance": 88.355,
+"city": "Otho",
+"state": "IA"
+},
+{
+"zip_code": "51007",
+"distance": 197.845,
+"city": "Bronson",
+"state": "IA"
+},
+{
+"zip_code": "50043",
+"distance": 104.763,
+"city": "Buckeye",
+"state": "IA"
+},
+{
+"zip_code": "50586",
+"distance": 94.44,
+"city": "Somers",
+"state": "IA"
+},
+{
+"zip_code": "50701",
+"distance": 166.867,
+"city": "Waterloo",
+"state": "IA"
+},
+{
+"zip_code": "50634",
+"distance": 175.743,
+"city": "Gilbertville",
+"state": "IA"
+},
+{
+"zip_code": "50561",
+"distance": 112.4,
+"city": "Lytton",
+"state": "IA"
+},
+{
+"zip_code": "50672",
+"distance": 121.01,
+"city": "Steamboat Rock",
+"state": "IA"
+},
+{
+"zip_code": "50583",
+"distance": 120.008,
+"city": "Sac city",
+"state": "IA"
+},
+{
+"zip_code": "50566",
+"distance": 94.755,
+"city": "Moorland",
+"state": "IA"
+},
+{
+"zip_code": "50642",
+"distance": 136.901,
+"city": "Holland",
+"state": "IA"
+},
+{
+"zip_code": "51039",
+"distance": 190.105,
+"city": "Moville",
+"state": "IA"
+},
+{
+"zip_code": "51018",
+"distance": 164.262,
+"city": "Cushing",
+"state": "IA"
+},
+{
+"zip_code": "50552",
+"distance": 99.111,
+"city": "Knierim",
+"state": "IA"
+},
+{
+"zip_code": "50680",
+"distance": 131.502,
+"city": "Wellsburg",
+"state": "IA"
+},
+{
+"zip_code": "50535",
+"distance": 131.557,
+"city": "Early",
+"state": "IA"
+},
+{
+"zip_code": "50648",
+"distance": 186.252,
+"city": "Jesup",
+"state": "IA"
+},
+{
+"zip_code": "50707",
+"distance": 174.771,
+"city": "Evansdale",
+"state": "IA"
+},
+{
+"zip_code": "50532",
+"distance": 94.426,
+"city": "Duncombe",
+"state": "IA"
+},
+{
+"zip_code": "50595",
+"distance": 96.244,
+"city": "Webster city",
+"state": "IA"
+},
+{
+"zip_code": "50702",
+"distance": 171.254,
+"city": "Waterloo",
+"state": "IA"
+},
+{
+"zip_code": "50624",
+"distance": 148.776,
+"city": "Dike",
+"state": "IA"
+},
+{
+"zip_code": "50667",
+"distance": 177.821,
+"city": "Raymond",
+"state": "IA"
+},
+{
+"zip_code": "51016",
+"distance": 174.146,
+"city": "Correctionville",
+"state": "IA"
+},
+{
+"zip_code": "50551",
+"distance": 112.852,
+"city": "Jolley",
+"state": "IA"
+},
+{
+"zip_code": "50271",
+"distance": 105.36,
+"city": "Williams",
+"state": "IA"
+},
+{
+"zip_code": "50704",
+"distance": 170.533,
+"city": "Waterloo",
+"state": "IA"
+},
+{
+"zip_code": "50501",
+"distance": 98.718,
+"city": "Fort Dodge",
+"state": "IA"
+},
+{
+"zip_code": "50126",
+"distance": 117.755,
+"city": "Iowa Falls",
+"state": "IA"
+},
+{
+"zip_code": "51053",
+"distance": 142.102,
+"city": "Schaller",
+"state": "IA"
+},
+{
+"zip_code": "51025",
+"distance": 159.103,
+"city": "Holstein",
+"state": "IA"
+},
+{
+"zip_code": "50006",
+"distance": 112.9,
+"city": "Alden",
+"state": "IA"
+},
+{
+"zip_code": "51020",
+"distance": 150.945,
+"city": "Galva",
+"state": "IA"
+},
+{
+"zip_code": "50518",
+"distance": 104.369,
+"city": "Barnum",
+"state": "IA"
+},
+{
+"zip_code": "50614",
+"distance": 165.819,
+"city": "Cedar Falls",
+"state": "IA"
+},
+{
+"zip_code": "50034",
+"distance": 105.994,
+"city": "Blairsburg",
+"state": "IA"
+},
+{
+"zip_code": "50673",
+"distance": 149.666,
+"city": "Stout",
+"state": "IA"
+},
+{
+"zip_code": "50567",
+"distance": 134.039,
+"city": "Nemaha",
+"state": "IA"
+},
+{
+"zip_code": "50563",
+"distance": 109.383,
+"city": "Manson",
+"state": "IA"
+},
+{
+"zip_code": "50613",
+"distance": 164.261,
+"city": "Cedar Falls",
+"state": "IA"
+},
+{
+"zip_code": "50703",
+"distance": 178.493,
+"city": "Waterloo",
+"state": "IA"
+},
+{
+"zip_code": "50623",
+"distance": 180.392,
+"city": "Dewar",
+"state": "IA"
+},
+{
+"zip_code": "51048",
+"distance": 181.481,
+"city": "Pierson",
+"state": "IA"
+},
+{
+"zip_code": "50575",
+"distance": 118.64,
+"city": "Pomeroy",
+"state": "IA"
+},
+{
+"zip_code": "50601",
+"distance": 133.735,
+"city": "Ackley",
+"state": "IA"
+},
+{
+"zip_code": "50599",
+"distance": 109.134,
+"city": "Woolstock",
+"state": "IA"
+},
+{
+"zip_code": "50665",
+"distance": 150.35,
+"city": "Parkersburg",
+"state": "IA"
+},
+{
+"zip_code": "51061",
+"distance": 175.279,
+"city": "Washta",
+"state": "IA"
+},
+{
+"zip_code": "50660",
+"distance": 158.883,
+"city": "New Hartford",
+"state": "IA"
+},
+{
+"zip_code": "50594",
+"distance": 108.27,
+"city": "Vincent",
+"state": "IA"
+},
+{
+"zip_code": "50626",
+"distance": 188.424,
+"city": "Dunkerton",
+"state": "IA"
+},
+{
+"zip_code": "50608",
+"distance": 140.788,
+"city": "Austinville",
+"state": "IA"
+},
+{
+"zip_code": "51028",
+"distance": 194.252,
+"city": "Kingsley",
+"state": "IA"
+},
+{
+"zip_code": "50227",
+"distance": 120.807,
+"city": "Popejoy",
+"state": "IA"
+},
+{
+"zip_code": "50540",
+"distance": 127.92,
+"city": "Fonda",
+"state": "IA"
+},
+{
+"zip_code": "50604",
+"distance": 145.161,
+"city": "Aplington",
+"state": "IA"
+},
+{
+"zip_code": "50524",
+"distance": 114.692,
+"city": "Clare",
+"state": "IA"
+},
+{
+"zip_code": "50516",
+"distance": 112.841,
+"city": "Badger",
+"state": "IA"
+},
+{
+"zip_code": "50568",
+"distance": 136.93,
+"city": "Newell",
+"state": "IA"
+},
+{
+"zip_code": "51049",
+"distance": 174.108,
+"city": "Quimby",
+"state": "IA"
+},
+{
+"zip_code": "50571",
+"distance": 121.663,
+"city": "Palmer",
+"state": "IA"
+},
+{
+"zip_code": "50041",
+"distance": 131.669,
+"city": "Bradford",
+"state": "IA"
+},
+{
+"zip_code": "50071",
+"distance": 123.565,
+"city": "Dows",
+"state": "IA"
+},
+{
+"zip_code": "50629",
+"distance": 199.32,
+"city": "Fairbank",
+"state": "IA"
+},
+{
+"zip_code": "50647",
+"distance": 172.075,
+"city": "Janesville",
+"state": "IA"
+},
+{
+"zip_code": "50533",
+"distance": 116.195,
+"city": "Eagle Grove",
+"state": "IA"
+},
+{
+"zip_code": "50588",
+"distance": 148.187,
+"city": "Storm Lake",
+"state": "IA"
+},
+{
+"zip_code": "50593",
+"distance": 136.012,
+"city": "Varina",
+"state": "IA"
+},
+{
+"zip_code": "50101",
+"distance": 122.138,
+"city": "Galt",
+"state": "IA"
+},
+{
+"zip_code": "50633",
+"distance": 139.961,
+"city": "Geneva",
+"state": "IA"
+},
+{
+"zip_code": "50622",
+"distance": 183.749,
+"city": "Denver",
+"state": "IA"
+},
+{
+"zip_code": "50591",
+"distance": 118.375,
+"city": "Thor",
+"state": "IA"
+},
+{
+"zip_code": "50649",
+"distance": 154.765,
+"city": "Kesley",
+"state": "IA"
+},
+{
+"zip_code": "51002",
+"distance": 159.386,
+"city": "Alta",
+"state": "IA"
+},
+{
+"zip_code": "50668",
+"distance": 191.893,
+"city": "Readlyn",
+"state": "IA"
+},
+{
+"zip_code": "50670",
+"distance": 168.251,
+"city": "Shell Rock",
+"state": "IA"
+},
+{
+"zip_code": "50541",
+"distance": 126.746,
+"city": "Gilmore city",
+"state": "IA"
+},
+{
+"zip_code": "50548",
+"distance": 123.594,
+"city": "Humboldt",
+"state": "IA"
+},
+{
+"zip_code": "50574",
+"distance": 134.243,
+"city": "Pocahontas",
+"state": "IA"
+},
+{
+"zip_code": "50529",
+"distance": 123.877,
+"city": "Dakota city",
+"state": "IA"
+},
+{
+"zip_code": "50592",
+"distance": 154.832,
+"city": "Truesdale",
+"state": "IA"
+},
+{
+"zip_code": "51005",
+"distance": 167.768,
+"city": "Aurelia",
+"state": "IA"
+},
+{
+"zip_code": "50526",
+"distance": 127.018,
+"city": "Clarion",
+"state": "IA"
+},
+{
+"zip_code": "50525",
+"distance": 127.443,
+"city": "Clarion",
+"state": "IA"
+},
+{
+"zip_code": "50431",
+"distance": 136.958,
+"city": "Coulter",
+"state": "IA"
+},
+{
+"zip_code": "50441",
+"distance": 142.729,
+"city": "Hampton",
+"state": "IA"
+},
+{
+"zip_code": "50602",
+"distance": 161.8,
+"city": "Allison",
+"state": "IA"
+},
+{
+"zip_code": "51012",
+"distance": 177.548,
+"city": "Cherokee",
+"state": "IA"
+},
+{
+"zip_code": "50470",
+"distance": 132.246,
+"city": "Rowan",
+"state": "IA"
+},
+{
+"zip_code": "50625",
+"distance": 153.403,
+"city": "Dumont",
+"state": "IA"
+},
+{
+"zip_code": "50510",
+"distance": 149.398,
+"city": "Albert city",
+"state": "IA"
+},
+{
+"zip_code": "50677",
+"distance": 185.062,
+"city": "Waverly",
+"state": "IA"
+},
+{
+"zip_code": "51035",
+"distance": 194.371,
+"city": "Marcus",
+"state": "IA"
+},
+{
+"zip_code": "50452",
+"distance": 141.462,
+"city": "Latimer",
+"state": "IA"
+},
+{
+"zip_code": "50542",
+"distance": 130.524,
+"city": "Goldfield",
+"state": "IA"
+},
+{
+"zip_code": "51014",
+"distance": 189.462,
+"city": "Cleghorn",
+"state": "IA"
+},
+{
+"zip_code": "50582",
+"distance": 133.106,
+"city": "Rutland",
+"state": "IA"
+},
+{
+"zip_code": "50545",
+"distance": 131.902,
+"city": "Hardy",
+"state": "IA"
+},
+{
+"zip_code": "50676",
+"distance": 196.245,
+"city": "Tripoli",
+"state": "IA"
+},
+{
+"zip_code": "50576",
+"distance": 162.04,
+"city": "Rembrandt",
+"state": "IA"
+},
+{
+"zip_code": "50420",
+"distance": 141.03,
+"city": "Alexander",
+"state": "IA"
+},
+{
+"zip_code": "50520",
+"distance": 136.346,
+"city": "Bradgate",
+"state": "IA"
+},
+{
+"zip_code": "50619",
+"distance": 175.375,
+"city": "Clarksville",
+"state": "IA"
+},
+{
+"zip_code": "50611",
+"distance": 163.233,
+"city": "Bristow",
+"state": "IA"
+},
+{
+"zip_code": "51037",
+"distance": 188.726,
+"city": "Meriden",
+"state": "IA"
+},
+{
+"zip_code": "50427",
+"distance": 151.493,
+"city": "Chapin",
+"state": "IA"
+},
+{
+"zip_code": "50605",
+"distance": 159.665,
+"city": "Aredale",
+"state": "IA"
+},
+{
+"zip_code": "50546",
+"distance": 146.751,
+"city": "Havelock",
+"state": "IA"
+},
+{
+"zip_code": "50581",
+"distance": 143.151,
+"city": "Rolfe",
+"state": "IA"
+},
+{
+"zip_code": "50421",
+"distance": 141.378,
+"city": "Belmond",
+"state": "IA"
+},
+{
+"zip_code": "50554",
+"distance": 152.24,
+"city": "Laurens",
+"state": "IA"
+},
+{
+"zip_code": "50565",
+"distance": 159.405,
+"city": "Marathon",
+"state": "IA"
+},
+{
+"zip_code": "50577",
+"distance": 138.785,
+"city": "Renwick",
+"state": "IA"
+},
+{
+"zip_code": "50558",
+"distance": 139.324,
+"city": "Livermore",
+"state": "IA"
+},
+{
+"zip_code": "50666",
+"distance": 187.955,
+"city": "Plainfield",
+"state": "IA"
+},
+{
+"zip_code": "50573",
+"distance": 148.59,
+"city": "Plover",
+"state": "IA"
+},
+{
+"zip_code": "51029",
+"distance": 187.216,
+"city": "Larrabee",
+"state": "IA"
+},
+{
+"zip_code": "50475",
+"distance": 156.709,
+"city": "Sheffield",
+"state": "IA"
+},
+{
+"zip_code": "50570",
+"distance": 145.4,
+"city": "Ottosen",
+"state": "IA"
+},
+{
+"zip_code": "50636",
+"distance": 175.296,
+"city": "Greene",
+"state": "IA"
+},
+{
+"zip_code": "50519",
+"distance": 144.6,
+"city": "Bode",
+"state": "IA"
+},
+{
+"zip_code": "51033",
+"distance": 175.555,
+"city": "Linn Grove",
+"state": "IA"
+},
+{
+"zip_code": "50457",
+"distance": 151.971,
+"city": "Meservey",
+"state": "IA"
+},
+{
+"zip_code": "50585",
+"distance": 171.07,
+"city": "Sioux Rapids",
+"state": "IA"
+},
+{
+"zip_code": "50433",
+"distance": 167.177,
+"city": "Dougherty",
+"state": "IA"
+},
+{
+"zip_code": "50447",
+"distance": 147.486,
+"city": "Kanawha",
+"state": "IA"
+},
+{
+"zip_code": "50479",
+"distance": 156.574,
+"city": "Thornton",
+"state": "IA"
+},
+{
+"zip_code": "51047",
+"distance": 183.87,
+"city": "Peterson",
+"state": "IA"
+},
+{
+"zip_code": "51009",
+"distance": 193.301,
+"city": "Calumet",
+"state": "IA"
+},
+{
+"zip_code": "50439",
+"distance": 152.158,
+"city": "Goodell",
+"state": "IA"
+},
+{
+"zip_code": "50560",
+"distance": 150.095,
+"city": "Lu Verne",
+"state": "IA"
+},
+{
+"zip_code": "51366",
+"distance": 169.533,
+"city": "Webb",
+"state": "IA"
+},
+{
+"zip_code": "50562",
+"distance": 157.989,
+"city": "Mallard",
+"state": "IA"
+},
+{
+"zip_code": "50658",
+"distance": 194.446,
+"city": "Nashua",
+"state": "IA"
+},
+{
+"zip_code": "50527",
+"distance": 162.417,
+"city": "Curlew",
+"state": "IA"
+},
+{
+"zip_code": "50653",
+"distance": 178.415,
+"city": "Marble Rock",
+"state": "IA"
+},
+{
+"zip_code": "51058",
+"distance": 191.503,
+"city": "Sutherland",
+"state": "IA"
+},
+{
+"zip_code": "50597",
+"distance": 155.323,
+"city": "West Bend",
+"state": "IA"
+},
+{
+"zip_code": "50430",
+"distance": 152.52,
+"city": "Corwith",
+"state": "IA"
+},
+{
+"zip_code": "50477",
+"distance": 164.122,
+"city": "Swaledale",
+"state": "IA"
+},
+{
+"zip_code": "50469",
+"distance": 169.271,
+"city": "Rockwell",
+"state": "IA"
+},
+{
+"zip_code": "50449",
+"distance": 159.548,
+"city": "Klemme",
+"state": "IA"
+},
+{
+"zip_code": "51341",
+"distance": 176.16,
+"city": "Gillett Grove",
+"state": "IA"
+},
+{
+"zip_code": "51343",
+"distance": 179.207,
+"city": "Greenville",
+"state": "IA"
+},
+{
+"zip_code": "50515",
+"distance": 170.748,
+"city": "Ayrshire",
+"state": "IA"
+},
+{
+"zip_code": "50468",
+"distance": 181.859,
+"city": "Rockford",
+"state": "IA"
+},
+{
+"zip_code": "51357",
+"distance": 190.567,
+"city": "Royal",
+"state": "IA"
+},
+{
+"zip_code": "50511",
+"distance": 163.27,
+"city": "Algona",
+"state": "IA"
+},
+{
+"zip_code": "50616",
+"distance": 199.06,
+"city": "Charles city",
+"state": "IA"
+},
+{
+"zip_code": "50598",
+"distance": 166.359,
+"city": "Whittemore",
+"state": "IA"
+},
+{
+"zip_code": "50438",
+"distance": 170.398,
+"city": "Garner",
+"state": "IA"
+},
+{
+"zip_code": "50483",
+"distance": 166.946,
+"city": "Wesley",
+"state": "IA"
+},
+{
+"zip_code": "50482",
+"distance": 173.119,
+"city": "Ventura",
+"state": "IA"
+},
+{
+"zip_code": "50423",
+"distance": 168.588,
+"city": "Britt",
+"state": "IA"
+},
+{
+"zip_code": "50536",
+"distance": 176.161,
+"city": "Emmetsburg",
+"state": "IA"
+},
+{
+"zip_code": "51333",
+"distance": 186.072,
+"city": "Dickens",
+"state": "IA"
+},
+{
+"zip_code": "51358",
+"distance": 183.078,
+"city": "Ruthven",
+"state": "IA"
+},
+{
+"zip_code": "50528",
+"distance": 174.15,
+"city": "Cylinder",
+"state": "IA"
+},
+{
+"zip_code": "50428",
+"distance": 177.724,
+"city": "Clear Lake",
+"state": "IA"
+},
+{
+"zip_code": "50402",
+"distance": 184.862,
+"city": "Mason city",
+"state": "IA"
+},
+{
+"zip_code": "51301",
+"distance": 193.95,
+"city": "Spencer",
+"state": "IA"
+},
+{
+"zip_code": "50401",
+"distance": 184.884,
+"city": "Mason city",
+"state": "IA"
+},
+{
+"zip_code": "50458",
+"distance": 191.75,
+"city": "Nora Springs",
+"state": "IA"
+},
+{
+"zip_code": "50471",
+"distance": 197.68,
+"city": "Rudd",
+"state": "IA"
+},
+{
+"zip_code": "50522",
+"distance": 176.186,
+"city": "Burt",
+"state": "IA"
+},
+{
+"zip_code": "50559",
+"distance": 179.161,
+"city": "Lone Rock",
+"state": "IA"
+},
+{
+"zip_code": "50467",
+"distance": 194.487,
+"city": "Rock Falls",
+"state": "IA"
+},
+{
+"zip_code": "50432",
+"distance": 180.417,
+"city": "Crystal Lake",
+"state": "IA"
+},
+{
+"zip_code": "50484",
+"distance": 180.358,
+"city": "Woden",
+"state": "IA"
+},
+{
+"zip_code": "50539",
+"distance": 183.371,
+"city": "Fenton",
+"state": "IA"
+},
+{
+"zip_code": "51342",
+"distance": 190.658,
+"city": "Graettinger",
+"state": "IA"
+},
+{
+"zip_code": "50480",
+"distance": 182.238,
+"city": "Titonka",
+"state": "IA"
+},
+{
+"zip_code": "50464",
+"distance": 198.914,
+"city": "Plymouth",
+"state": "IA"
+},
+{
+"zip_code": "50434",
+"distance": 189.413,
+"city": "Fertile",
+"state": "IA"
+},
+{
+"zip_code": "50436",
+"distance": 186.536,
+"city": "Forest city",
+"state": "IA"
+},
+{
+"zip_code": "50456",
+"distance": 198.719,
+"city": "Manly",
+"state": "IA"
+},
+{
+"zip_code": "50444",
+"distance": 195.092,
+"city": "Hanlontown",
+"state": "IA"
+},
+{
+"zip_code": "51365",
+"distance": 196.636,
+"city": "Wallingford",
+"state": "IA"
+},
+{
+"zip_code": "50517",
+"distance": 188.993,
+"city": "Bancroft",
+"state": "IA"
+},
+{
+"zip_code": "50578",
+"distance": 193.001,
+"city": "Ringsted",
+"state": "IA"
+},
+{
+"zip_code": "50446",
+"distance": 198.399,
+"city": "Joice",
+"state": "IA"
+},
+{
+"zip_code": "50453",
+"distance": 197.48,
+"city": "Leland",
+"state": "IA"
+},
+{
+"zip_code": "50451",
+"distance": 196.805,
+"city": "Lakota",
+"state": "IA"
+},
+{
+"zip_code": "50424",
+"distance": 198.454,
+"city": "Buffalo Center",
+"state": "IA"
+}
+]
+}
