@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+<body>
+
+<div ng-app="App" ng-controller="Ctrl">
+
+<form  name="myForm" novalidate>
+  <label for="zip">Zip:</label>
+  <input type="text" name="zip" ng-model="zip" required >
+  <span style="color:red" ng-show="myForm.zip.$dirty && myForm.zip.$invalid">
+  <span ng-show="myForm.zip.$error.required">zip code required</span>
+  </span>
+   <label for="state">State:</label>
+  <input type="text" name="state" ng-model="state" required>
+
+   <label for="City">City:</label>
+  <input type="text" name="City" ng-model="city" required>
+</form>
+<span style="color:red">
+{{message}}
+</span>
+</div>
+
+<script src="App.js"></script>
+<script src="Ctrl.js"></script>
+
+</body>
+</html>
